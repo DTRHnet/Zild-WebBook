@@ -36,8 +36,9 @@ const verifiedAudiobooks: Record<string, string> = {
   "06-groundfall-in-the-breathing-forest": "/audio/06-groundfall-in-the-breathing-forest.mp3",
   "07-prime-pulse-under-neon-canopy": "/audio/07-prime-pulse-under-neon-canopy.mp3",
   "08-echoes-of-the-inhibitors-edge": "/audio/08-echoes-of-the-inhibitors-edge.mp3",
+  "09-the-return-to-the-ark": "/audio/09-the-return-to-the-ark.mp3",
 };
-const audiobookEntries = audiobookManifest.chapters as Record<string, { sampleSrc?: string; sampleDurationSeconds?: number }>;
+const audiobookEntries = audiobookManifest.chapters as Record<string, { sampleSrc?: string; sampleDurationSeconds?: number; finalSrc?: string; finalDurationSeconds?: number }>;
 
 const chapterFiles = import.meta.glob("../content/chapters/*.md", {
   query: "?raw",
