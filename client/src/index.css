@@ -68,6 +68,7 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .edition-strip { min-height: 62px; display: grid; grid-template-columns: 205px 1fr auto; align-items: center; gap: 25px; padding: 0 clamp(30px, 6vw, 95px); background: var(--blue-deep); color: #c3d1ca; }
 .strip-lead { display: flex; gap: 10px; align-items: center; color: var(--blue); font-size: 10px; letter-spacing: .15em; font-weight: 600; } .blue-pulse { background: var(--blue); box-shadow: 0 0 0 4px rgba(45,108,120,.2); }
 .edition-strip p { margin: 0; color: #9bb1ad; font: 14px 'Source Serif 4', serif; }
+.audio-format-note { color: #d5b16d; font: 700 9px 'IBM Plex Sans', sans-serif; letter-spacing: .1em; white-space: nowrap; }
 .edition-strip a { display: inline-flex; align-items: center; gap: 10px; color: #d2e0d9; font-size: 11px; font-weight: 600; }
 .book-intro { padding: 130px clamp(36px, 8vw, 130px) 150px; display: grid; grid-template-columns: 90px minmax(300px, 460px) 1fr; gap: 52px; background: var(--paper); }
 .section-marker { display: flex; align-items: flex-start; gap: 12px; color: var(--blue); font-size: 10px; letter-spacing: .16em; writing-mode: vertical-rl; transform: rotate(180deg); }

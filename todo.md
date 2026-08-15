@@ -56,9 +56,16 @@
 
 # Latest Chapter 1 Sample Append
 
-- [ ] Append the newly uploaded MP3 to the newest Chapter 1 sample.
-- [ ] Replace the web-app sample and update duration metadata.
-- [ ] Build, verify, commit, and push the newest sample.
+# Sample Duration and Format Note
+
+- [ ] Verify the newest Chapter 1 sample duration against the MP3 file.
+- [ ] Update manifest duration metadata and add WAV/MP3 format copy to the main page.
+- [ ] Build, verify, commit, and push the update.
+
+
+- [x] Append the newly uploaded MP3 to the newest Chapter 1 sample.
+- [x] Replace the web-app sample and update duration metadata.
+- [x] Build, verify, commit, and push the newest sample.
 
 
 - [x] Append the newly uploaded MP3 to the current Chapter 1 sample.
