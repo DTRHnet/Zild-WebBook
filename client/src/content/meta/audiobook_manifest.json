@@ -15,6 +15,12 @@
       "finalSrc": "/audio/02-launch-through-ash-and-void.mp3",
       "finalDurationSeconds": 1389.14,
       "note": "Assembled from seven plain-text narration chunks using the fixed Charon narrator."
+    },
+    "03-hearts-in-the-vacuum-pulse-in-the-ductwork": {
+      "status": "verified MP3",
+      "finalSrc": "/audio/03-hearts-in-the-vacuum-pulse-in-the-ductwork.mp3",
+      "finalDurationSeconds": 1025.59,
+      "note": "Assembled from five plain-text narration chunks using the fixed Charon narrator."
     }
   }
 }

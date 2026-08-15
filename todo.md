@@ -60,17 +60,25 @@
 
 # Chapter 2 Alternate Audiobook Workflow
 
+# Chapter 3 Plain Text Audiobook Workflow
+
+- [ ] Inspect Chapter 3 source and prepare plain-text chunks.
+- [ ] Generate and checkpoint each Chapter 3 chunk immediately as MP3.
+- [ ] Assemble and validate one Chapter 3 MP3.
+- [ ] Link Chapter 3 audio in the web app and push the completed chapter.
+
+
 # Chapter 2 Plain Text TTS Test
 
-- [ ] Convert a small Chapter 2 test passage to plain narration text only.
-- [ ] Generate and checkpoint the plain-text test MP3.
-- [ ] Evaluate stability before continuing Chapter 2 production.
+- [x] Convert a small Chapter 2 test passage to plain narration text only.
+- [x] Generate and checkpoint the plain-text test MP3.
+- [x] Evaluate stability before continuing Chapter 2 production.
 
 
-- [ ] Inspect Chapter 2 source and create smaller resilient narration chunks.
-- [ ] Generate and checkpoint each Chapter 2 chunk immediately as MP3.
-- [ ] Assemble and validate one Chapter 2 MP3.
-- [ ] Link Chapter 2 audio in the web app and push the completed chapter.
+- [x] Inspect Chapter 2 source and create smaller resilient narration chunks.
+- [x] Generate and checkpoint each Chapter 2 chunk immediately as MP3.
+- [x] Assemble and validate one Chapter 2 MP3.
+- [x] Link Chapter 2 audio in the web app and push the completed chapter.
 
 
 - [x] Verify the newest Chapter 1 sample duration against the MP3 file.

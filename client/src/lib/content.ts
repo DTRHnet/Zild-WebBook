@@ -30,6 +30,7 @@ export type ReadingItem = {
 // Updated only after a chapter has been fully assembled and validated.
 const verifiedAudiobooks: Record<string, string> = {
   "02-launch-through-ash-and-void": "/audio/02-launch-through-ash-and-void.mp3",
+  "03-hearts-in-the-vacuum-pulse-in-the-ductwork": "/audio/03-hearts-in-the-vacuum-pulse-in-the-ductwork.mp3",
 };
 const audiobookEntries = audiobookManifest.chapters as Record<string, { sampleSrc?: string; sampleDurationSeconds?: number }>;
 
