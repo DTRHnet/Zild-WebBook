@@ -11,12 +11,12 @@
 # Chapter Formatting and Visual Expansion
 
 - [x] Apply the supplied book-formatting rules consistently to all chapter Markdown and reader rendering.
-- [ ] Create and document a character, item, ship, and location visual bible.
-- [ ] Generate a consistent set of chapter, character, item, ship, and location images.
-- [ ] Add several relevant images to each chapter without changing the author’s wording or meaning.
+- [x] Create and document a character, item, ship, and location visual bible.
+- [x] Generate a consistent set of chapter, character, item, ship, and location images.
+- [x] Add several relevant images to each chapter without changing the author’s wording or meaning.
 - [x] Add visual plates and image links to the appendices.
 - [x] Add asset navigation and captions to the web app.
-- [ ] Re-run Vercel checks and push the revised webbook.
+- [x] Re-run Vercel checks and push the revised webbook.
 
 # Approved Anchor-Based Visual Pass
 
