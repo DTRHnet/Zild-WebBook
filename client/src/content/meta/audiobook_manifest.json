@@ -33,6 +33,12 @@
       "finalSrc": "/audio/05-shadows-beneath-the-surface.mp3",
       "finalDurationSeconds": 876.14,
       "note": "Assembled from five plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
+    },
+    "06-groundfall-in-the-breathing-forest": {
+      "status": "verified MP3",
+      "finalSrc": "/audio/06-groundfall-in-the-breathing-forest.mp3",
+      "finalDurationSeconds": 976.2,
+      "note": "Assembled from five plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
     }
   }
 }

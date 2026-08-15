@@ -33,6 +33,7 @@ const verifiedAudiobooks: Record<string, string> = {
   "03-hearts-in-the-vacuum-pulse-in-the-ductwork": "/audio/03-hearts-in-the-vacuum-pulse-in-the-ductwork.mp3",
   "04-the-quiet-before-the-storm": "/audio/04-the-quiet-before-the-storm.mp3",
   "05-shadows-beneath-the-surface": "/audio/05-shadows-beneath-the-surface.mp3",
+  "06-groundfall-in-the-breathing-forest": "/audio/06-groundfall-in-the-breathing-forest.mp3",
 };
 const audiobookEntries = audiobookManifest.chapters as Record<string, { sampleSrc?: string; sampleDurationSeconds?: number }>;
 
