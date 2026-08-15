@@ -1,5 +1,10 @@
 # Chapter 8 — Echoes of the Inhibitors Edge
 
+<!-- ZILD VISUAL -->
+![Zild chapter 08 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-08-signal.jpg)
+*Interpretive plate: lauren anchor, chapter 08.*
+<!-- END ZILD VISUAL -->
+
 The central hub smelled of ozone and old wet cloth. Charged dust hung in the air like a second twilight, eddying along corridor seams and the edges of screens. The forest run had left a residue they couldn't scrub away: scraped armor, bruised pride, and a sense that Zild had learned their faces.
 
 Console warnings pulsed in thin columns: power nodes flickering, environmental filters throttling, microbial sensors catching sequences faster than Lena's tired eyes could parse them. Ava hovered at the hydroponics spill station with steam rising from her gloves. The nutrient pool at her feet pulsed with bioluminescent veins of green—beautiful once, useful once, now a parasite with a taste for their systems.
@@ -53,6 +58,11 @@ Lauren's hand hovered over the stylus. "Quarantine. Seal it. No autoload."
 She said the words with the kind of authority that didn't invite debate, but Isaac met her as she turned away. "If he found something, Shale would've at least tried to catalog it. There's a difference between sealing a threat and burying a breadcrumb."
 
 Lauren let the stylus rest between her fingers like a small instrument. "If it's a vector that can trigger psychomimetic response—"
+
+<!-- ZILD VISUAL -->
+![Zild chapter 08 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-08-evidence.jpg)
+*Interpretive plate: spacy anchor, chapter 08.*
+<!-- END ZILD VISUAL -->
 
 "It's just audio," Isaac said. "But the markers Spacy ran—stress overlay, anticipatory arousal, memory confabulation—that's not just noise. If it came from Mirrorglass or beyond, someone out there had the intent to be heard. That matters to what we do next."
 

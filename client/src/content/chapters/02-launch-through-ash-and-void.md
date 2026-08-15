@@ -1,5 +1,10 @@
 # Chapter 2 — Launch Through Ash and Void
 
+<!-- ZILD VISUAL -->
+![Zild chapter 02 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-02-signal.jpg)
+*Interpretive plate: lauren anchor, chapter 02.*
+<!-- END ZILD VISUAL -->
+
 Isaac Porter, raw audio transcription: It tastes like frostbite in my lungs tonight—scorched oxygen, metal shavings, fear.
 
 The operations deck of the Ark glowed under two lights: bruise-purple dusk slanting through half-shattered skylights and the saturated amber of countdown numerals tumbling toward zero. A greasy wind hissed through the skeletal rafters, bringing the scent of melted plastic, ozone, and the faint sweetness of burning forests beyond the perimeter wall. Every breath tasted like a soldering iron kissed by dying pine needles.
@@ -67,6 +72,11 @@ Ava laughed, incredulous; a bubble of condensation escaped and captured a rainbo
 Lena reported, voice steadier than her pulse: Cryopod vitals nominal. She looked at Earth, now a half-eclipsed coin, and mouthed something Spacy tried to lip-read through glass but could not.
 
 Seat 17B was empty. The harness buckled to a dark display. Dr. Eamon Shale’s name sat on the manifest—xenolinguist, signed in at 0500 hours. Security logs showed his badge leaving quarters. Boarding sensors recorded no weight on the chair. A locker had been emptied; effects were gone save for a single folded page left on the cushion:
+
+<!-- ZILD VISUAL -->
+![Zild chapter 02 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-02-evidence.jpg)
+*Interpretive plate: ark anchor, chapter 02.*
+<!-- END ZILD VISUAL -->
 
 Cartographers of nothing map the silence between notes.
 

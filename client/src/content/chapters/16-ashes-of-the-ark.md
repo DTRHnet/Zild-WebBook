@@ -1,5 +1,10 @@
 # Chapter 16 — Ashes of the Ark
 
+<!-- ZILD VISUAL -->
+![Zild chapter 16 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-16-signal.jpg)
+*Interpretive plate: ark anchor, chapter 16.*
+<!-- END ZILD VISUAL -->
+
 The pod fell like a wounded star through Zild’s angry sky.
 
 Ava Serrano rode the fall with her hands locked into the cracked harness, the cabin a rattle of dying electronics. Black clouds tore past the viewports. Panels screamed their last error-codes until the displays blinked and went blind. The stabilizers had gone quiet hours—or minutes—before impact; time had a way of dissolving in things that break.
@@ -31,6 +36,11 @@ The pillar flared.
 Visions poured through her skin in a wash: Markus laughing at a table rimed with salvage; Mia humming to a sleeping infant in a medbay that smelled like disinfectant and grief; Lena bent over a microscope, whispering wonder into a recorder; Isaac muttering to himself as he tried to coax gardens from a dead planet—his thumb stained with printer ink and lemon oil, the thermos he kept warm against his chest. Lauren—Lauren at the viewport, shoulders bowed against a light she would never see again. Small domestic gestures, a dent in a mug, a scuffed boot. These were not ghosts. The images were recordings, surges of embodied memory—tactile, particular—and they hit like the presence of a hand on her shoulder. Each vision stitched itself into the pillar’s broken song and, through the shard, into Ava.
 
 She staggered back and let herself sob because the hurt of hope could cut harder than resignation. The chasm’s light throbbed. Seventeen seconds. Sixteen. Fifteen.
+
+<!-- ZILD VISUAL -->
+![Zild chapter 16 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-16-evidence.jpg)
+*Interpretive plate: spacy anchor, chapter 16.*
+<!-- END ZILD VISUAL -->
 
 Spacy’s voice threaded through her earpiece somewhere between static and old circuitry—patchwork of processes saved and replayed. Bits of the avatar’s timbre: "You are not alone." "Your legacy is not failure." Then, in a voice loop that had some of Lauren’s clipped cadence recorded for command routines: "Carry the memory." The synthetic syllables fell across the field and felt almost human, like a stitched garment trying to hold a wound together.
 

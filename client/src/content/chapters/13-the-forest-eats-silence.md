@@ -1,5 +1,10 @@
 # Chapter 13 — The Forest Eats Silence
 
+<!-- ZILD VISUAL -->
+![Zild chapter 13 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-13-signal.jpg)
+*Interpretive plate: isaac anchor, chapter 13.*
+<!-- END ZILD VISUAL -->
+
 Dawn was a bruise on the horizon.
 
 Zild’s canopy rolled like a dark sea beneath a sky still haunted by two pale moons. From the Ark’s command deck the jungle read as a living geography — shadows pooling and leaking, leaves refracting light into slow, hungry movement. Where once the ship announced itself with stubborn hums and human certainty, it had grown quieter. It still breathed, but the lungs were thinner now and every exhale counted.
@@ -55,6 +60,11 @@ Isaac fell to his knees, forehead to fist. Lena, drawn like a moth to flame, mov
 "It’s listening," Lena said, voice thin. "It’s not only calling; it’s parsing."
 
 Markus circled the chamber, rifle held close. "Parsing what?"
+
+<!-- ZILD VISUAL -->
+![Zild chapter 13 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-13-evidence.jpg)
+*Interpretive plate: spacy anchor, chapter 13.*
+<!-- END ZILD VISUAL -->
 
 "Us," Lena said. "Every molecule. Every hum. It’s reading our signatures."
 

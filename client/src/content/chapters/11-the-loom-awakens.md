@@ -1,5 +1,10 @@
 # Chapter 11 — The Loom Awakens
 
+<!-- ZILD VISUAL -->
+![Zild chapter 11 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-11-signal.jpg)
+*Interpretive plate: spacy anchor, chapter 11.*
+<!-- END ZILD VISUAL -->
+
 The Ark trembled like an animal that had learned a new way to shiver. At first everyone called it an old-ship complaint—the settling groan of metal exhausted by too many launches and too many patch jobs—but the vibration did not decay. It pulsed through deck plating and wiring looms with a steady insistence, a second heartbeat rubbing against their own.
 
 Isaac pressed the heel of his hand to the nearest bulkhead and felt it as plainly as if a giant fist had set and un-set its palm. The sensation made his teeth ache: deliberate, testing. Below that cadence lay another sound he could not have named until the word arrived like a nail across his mind—summons.
@@ -59,6 +64,11 @@ He found himself saying the obvious to a room full of people who had already not
 "Call-and-response architecture detected," Spacy said, voice steadier now. "Signal complexity beyond local trophic networks. Suggests coordinated subsurface framework."
 
 Lauren did not wait for conference. "Command fallback Delta-1. Abandon nonessential sectors. Prepare manual severance of lower decks."
+
+<!-- ZILD VISUAL -->
+![Zild chapter 11 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-11-evidence.jpg)
+*Interpretive plate: isaac anchor, chapter 11.*
+<!-- END ZILD VISUAL -->
 
 Isaac barked. "You mean cut them loose? The reserves—" He stopped because he could see the decision sharp and correct in her face. There was no time to sentimentalize stores and seeds.
 

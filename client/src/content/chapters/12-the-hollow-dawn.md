@@ -1,5 +1,10 @@
 # Chapter 12 — The Hollow Dawn
 
+<!-- ZILD VISUAL -->
+![Zild chapter 12 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-12-signal.jpg)
+*Interpretive plate: ark anchor, chapter 12.*
+<!-- END ZILD VISUAL -->
+
 The Ark’s bulkheads felt suddenly thin, as if the ship wore its scars like a denuded membrane. Every inhalation ricocheted off metal ribs. Every step sounded too loud in a place that had grown used to the quieter noises of dying: slow coughs behind masks, the crack of exhausted joints, the low electronic sigh of systems working too hard.
 
 They had survived the first collision with Zild—had fought back the towering ridges and the thing at the heart of the green scream—but the victory sat on their tongues like copper and old grief.
@@ -73,6 +78,11 @@ Inside, the basil had taken on grotesque scale. Leaves had become rolling blades
 “No time,” Lauren said. The green thing moved with intention. Tendrils whipped at the corridor and struck the emergency barrier. The seal buckled.
 
 Markus thumbed the rail launcher and shouted, “Back!”
+
+<!-- ZILD VISUAL -->
+![Zild chapter 12 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-12-evidence.jpg)
+*Interpretive plate: spacy anchor, chapter 12.*
+<!-- END ZILD VISUAL -->
 
 His shot detonated in a sonic bloom that shredded vines and slammed the greenhouse doors. The emergency lock clanged down; for a handful of breaths they pressed against the bulkhead and listened.
 

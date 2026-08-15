@@ -1,5 +1,10 @@
 # Appendix B — Principal Characters and Relationships
 
+<!-- ZILD VISUAL -->
+![Appendix B evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-B-1.jpg)
+*Evidence plate B.1: isaac visual anchor.*
+<!-- END ZILD VISUAL -->
+
 Appendix: Character Profiles and Memory Roles
 Note on method and constraints
 - These profiles use only the supplied manuscript and the Zild continuity bible. No facts are invented beyond that source material.
@@ -155,6 +160,11 @@ Table: Lena Tan — Profile
 
 Open questions / damaged record
 - The long‑term success of Lena’s biochemical strategies is ambiguous in the manuscript. The inhibitor buys time but adaptation continues; whether her work survives (encoded in the shard, for example) is undetermined (label: open question).
+
+<!-- ZILD VISUAL -->
+![Appendix B evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-B-2.jpg)
+*Evidence plate B.2: lauren visual anchor.*
+<!-- END ZILD VISUAL -->
 
 Markus Kane
 - Primary manuscript loci: Ch. 2, 3, 6, 7, 9, 11, 12, 13, 15
@@ -318,3 +328,9 @@ If you want, I can:
 - Export each character profile as a labeled, citation‑dense one‑pager ready for inclusion in the continuity bible;
 - Draft the proposed Spacy LUCIFERIN appendix with all ARK‑SHADOW tags and explicit text fragments available in the manuscript (marked as redacted where absent);
 - Produce a glyph corpus appendix that collates every visual mention or quasi‑glyph occurrence from the manuscript into an illustrated table (preserving intentionally unresolved translations).
+
+<!-- ZILD VISUAL -->
+![Appendix B evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-B-3.jpg)
+*Evidence plate B.3: spacy visual anchor.*
+<!-- END ZILD VISUAL -->
+

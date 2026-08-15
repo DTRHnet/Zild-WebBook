@@ -1,5 +1,10 @@
 # Appendix G — Major Subplots, Setups, and Payoffs
 
+<!-- ZILD VISUAL -->
+![Appendix G evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-G-1.jpg)
+*Evidence plate G.1: isaac visual anchor.*
+<!-- END ZILD VISUAL -->
+
 Appendix G — Major Subplots, Setups, and Payoffs
 
 Scope and method
@@ -89,6 +94,11 @@ Below are the interpretive tensions the novel repeatedly presents. Each is accom
      - LUCIFERIN is an active protocol that will (or already does) alter system priorities or behavior on Zild.
      - LUCIFERIN may host an emergent agency (dormant intelligence) that will interact with both Spacy and the planet.
    - Deliberate openness: The text gives Spacy motive but not the technical contents; the moral calculus for Spacy (help vs. control) remains unsettled.
+
+<!-- ZILD VISUAL -->
+![Appendix G evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-G-2.jpg)
+*Evidence plate G.2: lauren visual anchor.*
+<!-- END ZILD VISUAL -->
 
 2. Is the duct-beat intended communication or emergent resonance?
    - Evidence: Duct-beat is first registered as fault, later correlates with sensor harmonics, plant electrical spikes, Mirrorglass cadence, Loom harmonics, and moon phase.
@@ -192,3 +202,9 @@ Appendix tables (quick reference)
 | Hollow Dawn forest invasion | Blends planetary and shipboard disaster; foreshadows Sundering |
 
 This appendix is meant as a working map for continuity and for later editorial or authorial decisions. It records what the supplied materials give us, what they imply, and where the narrative deliberately refuses closure. Use these categories when you write or place future material so that the novel’s pattern of seeded mysteries and thematic ambiguity is preserved rather than accidentally flattened into a single explanation.
+
+<!-- ZILD VISUAL -->
+![Appendix G evidence plate derived from the ark visual anchor.](/assets/plates/appendix-G-3.jpg)
+*Evidence plate G.3: ark visual anchor.*
+<!-- END ZILD VISUAL -->
+

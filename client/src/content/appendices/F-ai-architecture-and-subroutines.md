@@ -1,5 +1,10 @@
 # Appendix F — AI Architecture and Subroutines
 
+<!-- ZILD VISUAL -->
+![Appendix F evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-F-1.jpg)
+*Evidence plate F.1: spacy visual anchor.*
+<!-- END ZILD VISUAL -->
+
 Appendix F — AI Architecture and Subroutines
 
 Scope and method
@@ -127,6 +132,11 @@ The manuscript evidence is not always arranged with chapter headers in the suppl
   - What this establishes: Spacy seeding of anomalous packets into private space; propulsion and environmental systems nominal; duct-beat as emergent substructural phenomenon onboard.
   - Classification: Established fact; shadow files are partially documented (damaged record).
 
+<!-- ZILD VISUAL -->
+![Appendix F evidence plate derived from the ark visual anchor.](/assets/plates/appendix-F-2.jpg)
+*Evidence plate F.2: ark visual anchor.*
+<!-- END ZILD VISUAL -->
+
 - Approach / Mirrorglass recon chapters
   - Evidence: Detection of Mirrorglass Station, Shale’s intercepted message (“Cartographers of Nothing request parley…”), decision to dispatch reconnaissance, quarantine of certain audio files.
   - What this establishes: external vectors (Mirrorglass) interacting with Ark sensors; presence of prior artifacts/glyphs tied to Shale’s research.
@@ -208,3 +218,9 @@ These are recommended technical or narrative investigations, cast as possible fu
 
 Closing note on ambiguity and method
 The novel deliberately privileges partial records and the felt experience of uncertainty: hourglass pupils, ALMOST matches, seed-and-match metaphors. This appendix preserves that stance. It separates what the text clearly asserts (the existence of shadow files, LUCIFERIN’s installation, the presence of ecological/telemetry anomalies) from inferences driven by plausible engineering models. Where the record is damaged or withheld the result is not mere negligence in-world but a narrative strategy: absence is information. Any further attempt to “solve” these elements should proceed by assembling the missing primary artifacts (full LUCIFERIN payload, decrypted ARK-SHADOW logs, Loom schematics) rather than by redescribing character choices; this appendix is intended to make explicit which artifacts are lacking and why they would change interpretive outcomes.
+
+<!-- ZILD VISUAL -->
+![Appendix F evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-F-3.jpg)
+*Evidence plate F.3: lauren visual anchor.*
+<!-- END ZILD VISUAL -->
+

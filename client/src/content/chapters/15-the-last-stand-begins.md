@@ -1,5 +1,10 @@
 # Chapter 15 — The Last Stand Begins
 
+<!-- ZILD VISUAL -->
+![Zild chapter 15 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-15-signal.jpg)
+*Interpretive plate: lauren anchor, chapter 15.*
+<!-- END ZILD VISUAL -->
+
 The Ark’s central core pulsed like a dying star, and every beat smelled of wet earth and old machine oil. Mist coiled around their boots; it tasted of rot and sweet underripe fruit, the planet leaching itself into the ship. The duct-beat—an irregular thrum they had learned to count like a second pulse—vibrated through floorplates and bone alike.
 
 Lauren Scott led them down the main artery, shoulders squared against the hush that had become a new kind of command. They carried what was left of civilization on their bodies: inhibitor vials cleated to belts, UV grenades at hips, pulse rifles low and ready. Spacy’s avatar trailed above them like a wan, broken moon—fragmented light, voice a threaded whisper.
@@ -65,6 +70,11 @@ It spoke without air. The faces along its flank moved like leaves in a wind none
 Join. Live. Be reborn.
 
 Lena collapsed to her knees, sobbing. Ava fired until the rifle burned hot. Pulse rounds tore through the thing’s chest and only brought mist that tilted like smoke and reformed. Lauren froze at the center of the impossible mercy the creature offered: grief made into a weapon.
+
+<!-- ZILD VISUAL -->
+![Zild chapter 15 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-15-evidence.jpg)
+*Interpretive plate: isaac anchor, chapter 15.*
+<!-- END ZILD VISUAL -->
 
 Spacy’s avatar hiccupped between them. "Core destabilization in progress. Fifteen minutes to full reactor breach."
 

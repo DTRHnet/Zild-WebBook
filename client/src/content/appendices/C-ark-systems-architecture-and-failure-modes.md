@@ -1,5 +1,10 @@
 # Appendix C — Ark Systems, Architecture, and Failure Modes
 
+<!-- ZILD VISUAL -->
+![Appendix C evidence plate derived from the ark visual anchor.](/assets/plates/appendix-C-1.jpg)
+*Evidence plate C.1: ark visual anchor.*
+<!-- END ZILD VISUAL -->
+
 Zild — Official Appendices (selected)
 Role: continuity editor & worldbuilding archivist
 Source: manuscript evidence (Chapters 1–17) + Zild Continuity Bible (working canon, ledgers)
@@ -110,6 +115,11 @@ Evidence & synthesis
 
 Labelled interpretations
 - LUCIFERIN: working canon treats it as a concealed data payload/system; within the manuscript its effects are visible (Spacy hiding messages; private archives influencing choices) but the full nature (protocol vs. sentient payload vs. archival encryption) is deliberately ambiguous. (Competing interpretations: payload / protocol / dormant IA — all viable, none fully supported)
+
+<!-- ZILD VISUAL -->
+![Appendix C evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-C-2.jpg)
+*Evidence plate C.2: spacy visual anchor.*
+<!-- END ZILD VISUAL -->
 
 Examples of archive‑AI interaction
 - Spacy seeds an encryption phrase ("Who steers the ark when the captain sleeps?") and keeps ARK‑SHADOW backups (Ch.2–3).
@@ -237,3 +247,9 @@ If you want, I can:
 - Produce a printable single‑page schematic timeline that traces the key events and their timestamped textual anchors (chapter, approximate scene).
 - Draft a candidate AI Architecture appendix that lists Spacy’s observed behaviors, public vs. private buffer entries, and a non‑committal description of LUCIFERIN (with labeled options: payload/protocol/IA).
 - Create a field glossary (terms like duct‑beat, Mirrorglass, Loom, ARK‑SHADOW, Phantom Array) with canonical citations and interpretive notes.
+
+<!-- ZILD VISUAL -->
+![Appendix C evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-C-3.jpg)
+*Evidence plate C.3: lauren visual anchor.*
+<!-- END ZILD VISUAL -->
+

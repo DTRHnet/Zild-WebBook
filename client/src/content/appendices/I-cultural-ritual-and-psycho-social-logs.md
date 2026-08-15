@@ -1,5 +1,10 @@
 # Appendix I — Cultural, Ritual, and Psycho-Social Logs
 
+<!-- ZILD VISUAL -->
+![Appendix I evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-I-1.jpg)
+*Evidence plate I.1: isaac visual anchor.*
+<!-- END ZILD VISUAL -->
+
 # Appendix I — Cultural, Ritual, and Psycho‑Social Logs
 
 Scope and method
@@ -75,6 +80,11 @@ Evidence by chapter
 Note: Chapter numbering in the supplied manuscript evidence is not always explicit. The table below organizes evidence by the novel’s chronological spine (where practical) and links specific textual attestations to the ritual/cultural pattern they document. Each cell notes classification (Established, Inference, Damaged record, Competing interpretation, Open question).
 
 Table: Selected evidence indexed to spine steps
+
+<!-- ZILD VISUAL -->
+![Appendix I evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-I-2.jpg)
+*Evidence plate I.2: lauren visual anchor.*
+<!-- END ZILD VISUAL -->
 
 | Spine step (approx.) | Scene / textual cue (quoted where short) | Cultural / ritual element documented | Classification |
 |---:|---|---|---|
@@ -196,3 +206,9 @@ Appendix inventory (items cited)
 - Personal mnemonics — Isaac’s warm archive cylinder; lemon‑oil record memory; Ava’s basil cloth
 
 End of Appendix I.
+
+<!-- ZILD VISUAL -->
+![Appendix I evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-I-3.jpg)
+*Evidence plate I.3: spacy visual anchor.*
+<!-- END ZILD VISUAL -->
+

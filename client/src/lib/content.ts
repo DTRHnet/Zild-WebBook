@@ -1,5 +1,17 @@
 /* Ash Archive direction: the content index treats every chapter and appendix as a catalogued artifact, keeping navigation precise and the reading surface calm. */
 
+import visualManifest from "../content/meta/visual_manifest.json";
+
+export type VisualPlate = {
+  src: string;
+  anchor: string;
+  kind: "interpretive plate" | "evidence plate";
+  caption: string;
+  alt: string;
+};
+
+const typedManifest = visualManifest as unknown as { chapters: Record<string, VisualPlate[]>; appendices: Record<string, VisualPlate[]> };
+
 export type ReadingItem = {
   slug: string;
   title: string;
@@ -8,6 +20,7 @@ export type ReadingItem = {
   kind: "chapter" | "appendix";
   words: number;
   motif: string;
+  plates: VisualPlate[];
 };
 
 const chapterFiles = import.meta.glob("../content/chapters/*.md", {
@@ -64,6 +77,7 @@ export const chapters: ReadingItem[] = Object.entries(chapterFiles)
     kind: "chapter",
     words: wordCount(raw),
     motif: motifs[index] ?? "Signal / memory",
+    plates: typedManifest.chapters[String(index + 1).padStart(2, "0")] ?? [],
   }));
 
 export const appendices: ReadingItem[] = Object.entries(appendixFiles)
@@ -76,6 +90,7 @@ export const appendices: ReadingItem[] = Object.entries(appendixFiles)
     kind: "appendix",
     words: wordCount(raw),
     motif: "Evidence / interpretation",
+    plates: typedManifest.appendices[cleanSlug(path).slice(0, 1)] ?? [],
   }));
 
 export const allItems = [...chapters, ...appendices];

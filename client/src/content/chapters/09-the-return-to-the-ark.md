@@ -1,5 +1,10 @@
 # Chapter 9 — The Return to the Ark
 
+<!-- ZILD VISUAL -->
+![Zild chapter 09 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-09-signal.jpg)
+*Interpretive plate: ark anchor, chapter 09.*
+<!-- END ZILD VISUAL -->
+
 They broke through the last stand of neon-blue ferns together—lungs lit with a heat that felt like shame, boots sucking the wet earth. Mud clung and sloughed away in glowing prints that winked out as if embarrassed. The jungle breathed around them: metal-sour rot, damp loam, and the sugar-sour tang of spores hanging in the dim light like trembling lanterns.
 
 Markus Kane ran with his rifle snug under one arm, throat raw from calling and from the hunters’ cry that had followed them like accusation—high and keening, mandibles clacking somewhere beyond the trees. The sound knifed his gut; the Ark's cold silhouette should have been nothing more than steel beyond the last ravine, a place where machines and human rules still held sway.
@@ -77,6 +82,11 @@ Lauren's eyes narrowed. "What’s that?"
 Spacy's voice was even. "Detected in subroutine ARK-SHADOW-09. Origin: unknown. Frequency matches nocturnal calls recorded during initial landing. Patterning is consistent with acoustic signatures from ground probes."
 
 Silence gathered in the room. The crew had read Shale's private logs; the symbol matched marginal scribbles in his notes—an idiosyncratic mark that had been folded into myth in their small archive: the Serpent's Chorus.
+
+<!-- ZILD VISUAL -->
+![Zild chapter 09 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-09-evidence.jpg)
+*Interpretive plate: lauren anchor, chapter 09.*
+<!-- END ZILD VISUAL -->
 
 "Log it," Lauren said, voice low. "Keep it off the main feed. We don't start a panic when we need hands."
 

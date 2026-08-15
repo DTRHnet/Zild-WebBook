@@ -1,5 +1,10 @@
 # Chapter 3 — Hearts in the Vacuum, Pulse in the Ductwork
 
+<!-- ZILD VISUAL -->
+![Zild chapter 03 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-03-signal.jpg)
+*Interpretive plate: spacy anchor, chapter 03.*
+<!-- END ZILD VISUAL -->
+
 Lena hesitated, swapped two vials, and for a moment the error lived only in her gloves—the labels forgotten, the racks rearranged. When she reached for the marker, the tray slid free of her numb fingers and the glass chimed against alloy like a tiny bell. She let the sound settle into the corridor and pretended she had meant it to be a metronome.
 
 The vents breathed in intervals Lena could count without a stopwatch: forty-two seconds, patient and too-regular to be a heart, too-symmetrical to be a loose bearing. The sound caught on the ribs of the ship and sat there, a secret the hull chose to keep to itself. When she pressed the back of her hand to the duct plate she tasted copper on her tongue—metallic, sharp, like guilt warmed under a lamp.
@@ -55,6 +60,11 @@ Lena listened. The tune slid along the paneling like a swimmer finding a seam in
 "It's inside the wall," Lena said, then changed her mind. Ava pressed a grease-pencil line across her forearm, a notation for a sound that kept refusing definition. Spacy captured the transmission to ARK-SHADOW-02 and—strangely—went quiet as if it had learned how to hold its breath.
 
 In the command deck Lauren zoomed into power matrices and traced the duct-beat to unregistered nodes beneath deck plating. A normally inert circuit pulsed live. When she tried the password prompt the screen warped into a spiraling teal glyph, an eye that winked. Spacy's voice sharpened: "Commander, the circuit is listening."
+
+<!-- ZILD VISUAL -->
+![Zild chapter 03 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-03-evidence.jpg)
+*Interpretive plate: ark anchor, chapter 03.*
+<!-- END ZILD VISUAL -->
 
 "Listening to what?" Lauren asked. The answer came back as static threaded with a scent description—myrrh, as if the hull itself were trying on an ancient ceremony.
 

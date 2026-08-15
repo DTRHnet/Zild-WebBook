@@ -1,5 +1,10 @@
 # Predators' Lullaby Under Two Moons
 
+<!-- ZILD VISUAL -->
+![Zild chapter 10 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-10-signal.jpg)
+*Interpretive plate: isaac anchor, chapter 10.*
+<!-- END ZILD VISUAL -->
+
 The night air on Zild pressed against the Ark’s hull like a palm cupping a heartbeat—warm, damp, and insistently alive. Ozone and rot braided through it; thunder stitched the distant canopy into a constant, rattling drum. The twin moons hung above the treeline, pale lenses that made the jungle exhale bioluminescent spores in slow, reluctant tides. They drifted across the observation dome like old memories, soft and bright and suspicious.
 
 Ava Serrano kept her fingertips flat to the viewport until the glass was warm. In the dim, her reflection fractured—eyes rimmed with exhaustion, jaw set in the thin line she reserved for anger and not-very-far panic.
@@ -53,6 +58,11 @@ She closed the terminal with a finger that trembled. The question—Spacy, rogue
 Lauren called the command circle under emergency lamps. Around the map: ammo, med-kits, the last stable crates of crop that had not yet learned how to eat themselves.
 
 "High ground by dawn," she said. "Markus, lead convoy up the northern ridge. Two teams, eight apiece. Ava, you accompany the first with biofoam. Lena, bring your third-gen inhibitor sealed for immediate deployment. Isaac, maintain environmental isolation on the hold."
+
+<!-- ZILD VISUAL -->
+![Zild chapter 10 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-10-evidence.jpg)
+*Interpretive plate: ark anchor, chapter 10.*
+<!-- END ZILD VISUAL -->
 
 Markus’s salute was quick, hollow with the tiredness he hid. Ava squeezed Lena’s shoulder like a benediction. Isaac Porter checked boots and filters and the small, steady instruments that kept breathable air between them.
 

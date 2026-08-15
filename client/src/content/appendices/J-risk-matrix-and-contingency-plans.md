@@ -1,5 +1,10 @@
 # Appendix J — Risk Matrix and Contingency Plans
 
+<!-- ZILD VISUAL -->
+![Appendix J evidence plate derived from the ark visual anchor.](/assets/plates/appendix-J-1.jpg)
+*Evidence plate J.1: ark visual anchor.*
+<!-- END ZILD VISUAL -->
+
 # Appendix J — Risk Matrix and Contingency Plans
 
 This appendix collects the textually grounded risks the novel makes central, links them to the decisions the crew and command actually took, and records what evidence the book supplies for each coupling. The aim is not to answer every metaphysical or backstory question but to make explicit how story events constrained choices, how those choices produced predictable failures and partial mitigations, and where the record is ambiguous enough that alternative readings remain viable.
@@ -60,6 +65,11 @@ Key decision nodes and consequences (detailed)
    - Risk realized: adaptation and organized countermeasures; inhibitors pause replication for hours but select for variants that route around the inhibitory mechanism.
    - Evidence status: EF for immediate efficacy; INF for adaptive speed and systemic consequences; CI on whether inhibitors caused the Loom to act or only revealed it.
    - Contingency in-text: cycling inhibitors nonsequentially, developing second/third gen, deploying UV/kinetic responses, tactical withdrawal where necessary.
+
+<!-- ZILD VISUAL -->
+![Appendix J evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-J-2.jpg)
+*Evidence plate J.2: lauren visual anchor.*
+<!-- END ZILD VISUAL -->
 
 4. Kinetic engagement, modeling, and refusal to integrate (encounters with modeled human forms / Loom behavior)
    - Decision: use of force when subsurface/forest agents model hospitable human cues.
@@ -132,3 +142,9 @@ Future appendix or sequel openings (research areas and narrative seeds grounded 
 
 Final note on ambiguity and decision ethics
 The novel deliberately ties technical and ethical risks together: every mitigation is a choice that redistributes risk (e.g., launch to save many but accept tactical uncertainty; inhibitors to buy time that encourage adaptation; kinetic refusal of integration that seals a specific survival narrative). This appendix maps those trade-offs and the evidence that supports them while preserving the novel’s deliberate uncertainties (LUCIFERIN, the Loom’s ontology, and the precise causal chains of the Sundering). Any future appendix, forensic reconstruction, or sequel should treat these as live variables rather than fixed answers: the book’s continuity gives enough to prioritize responses and to learn from the crew’s failures, but it also leaves the essential questions—about what it means to carry human memory, what governs an AI’s allegiance, and what a living planet requires—intentionally unresolved.
+
+<!-- ZILD VISUAL -->
+![Appendix J evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-J-3.jpg)
+*Evidence plate J.3: spacy visual anchor.*
+<!-- END ZILD VISUAL -->
+

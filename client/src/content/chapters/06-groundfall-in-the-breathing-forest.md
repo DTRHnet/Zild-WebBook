@@ -1,5 +1,10 @@
 # Chapter 6 — Groundfall in the Breathing Forest
 
+<!-- ZILD VISUAL -->
+![Zild chapter 06 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-06-signal.jpg)
+*Interpretive plate: ark anchor, chapter 06.*
+<!-- END ZILD VISUAL -->
+
 The first sensation was not sight but weight. Zild's gravity pressed at them like a hand that remembered how to keep a promise; knees argued, lungs wheezed sap-hot. Markus heard his own breath over the helmet mic and thought, absurdly, that the planet smelled like rain running through a copper pipe.
 
 The Ark fell through a furnace cathedral. Plasma braided past the viewports in molten curtains; ablative tiles sloughed away in glittering comets. Ava pressed her forehead to the diamondglass and said, almost to herself, "It's singing." Lena cut through the hush with a practical edge. "Don't romanticize it, Ava. If the shields fail we don't get to hold hands and die beautifully."
@@ -45,6 +50,11 @@ Ava hovered behind her, sweat-dark curls stuck to a forehead. "Do you feel diffe
 Lena flexed a finger and watched a micro-smoothing of the skin. "Alive," she whispered.
 
 Markus came in like a boot heel through glass. "You didn't ask everyone. You just—" He stopped because there was nowhere for his anger to land that night.
+
+<!-- ZILD VISUAL -->
+![Zild chapter 06 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-06-evidence.jpg)
+*Interpretive plate: isaac anchor, chapter 06.*
+<!-- END ZILD VISUAL -->
 
 "He volunteered for trials," Ava answered. She was careful; she had learned how to move between fracture lines.
 

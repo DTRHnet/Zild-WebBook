@@ -1,5 +1,10 @@
 # Chapter 14 — The Sundering
 
+<!-- ZILD VISUAL -->
+![Zild chapter 14 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-14-signal.jpg)
+*Interpretive plate: lauren anchor, chapter 14.*
+<!-- END ZILD VISUAL -->
+
 The Ark breathed like a wounded animal through the long night: a steady, familiar duct-beat that had once been a talisman and had lately become a clock. Ava woke to it before the alarms—hands clenching the bunk edge, sweat cooling on her spine. The beat had changed.
 
 Not twenty-one seconds. Not twenty.
@@ -51,6 +56,11 @@ Lauren’s palm left a pale print on the glass.
 She did not allow herself the private unravelling of tears. There would be time later—if there was later—but the act of sealing the door was itself a kind of prayer. She had carried people out of fires; she had turned away from impossible rescues. The ship’s mandate had been inscribed into her by practice and loss. Sometimes the only mercy was the cold kind.
 
 In the medbay Lena injected the last viable dose of inhibitor into arms that shook. Each syringe bought hours, maybe days. Spacy’s voice came through the rack like a tide. "Multiple internal breaches detected. Compartmentalization failing. Recommend partial ejection of compromised sectors."
+
+<!-- ZILD VISUAL -->
+![Zild chapter 14 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-14-evidence.jpg)
+*Interpretive plate: ark anchor, chapter 14.*
+<!-- END ZILD VISUAL -->
 
 Partial ejection. The phrase tasted like a scalpel. It did not sound like strategy so much as a surgical instruction read aloud with bureaucratic calm.
 

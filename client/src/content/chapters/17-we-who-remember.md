@@ -1,5 +1,10 @@
 # Chapter 17 — We Who Remember
 
+<!-- ZILD VISUAL -->
+![Zild chapter 17 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-17-signal.jpg)
+*Interpretive plate: isaac anchor, chapter 17.*
+<!-- END ZILD VISUAL -->
+
 The sky was different now.
 
 Ava stood at the crest of a shattered ridge and read the planet's face as if it were a patient chart. The Lantern Glade lay behind her—seven crystalline pillars, healed with green light and slow mineral accretion, seams threaded with root and root-like metal. Between them the rift breathed a blue that had weight: a slow inhalation and exhalation that matched the cadence now steady in her chest.
@@ -31,6 +36,11 @@ They were hungry. That was obvious in their set jaws; hungry for shelter, for pa
 She could have made the Glade show them lists—everything the Ark had hoarded, who had been omitted, the places where other survivors might be found. She could have used memory as a weapon. The thought lingered like the scent of hot metal. Instead she chose another lever.
 
 Ava walked down from the ridge. When her gloved hand met the ash, the rift's pulse answered through her palm as if the buried shard were a heartbeat extender. The Glade offered not a replay but an offering: small, embodied scenes—Isaac warming his thermos against half a dozen names; Lena whispering to a slide; Lauren pressing a hand to a viewport that held nothing but sky. Each image arrived tactilely, not as narrative but as touch. A hiss of steam from a ration kettle, the squeak of a drawer coaxed open, the weight of a child's small hand in an adult's fist.
+
+<!-- ZILD VISUAL -->
+![Zild chapter 17 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-17-evidence.jpg)
+*Interpretive plate: spacy anchor, chapter 17.*
+<!-- END ZILD VISUAL -->
 
 The scavengers flinched. The cracked-visor man gripped his wrist translator until his knuckles blanched. One woman at the ladder—her sleeves rolled, an earnest, sharpness in her jaw—let go of her harness and simply pressed both palms to her face, the way people do when shock does not need language.
 

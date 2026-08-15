@@ -1,5 +1,10 @@
 # Chapter 7 — Prime Pulse Under Neon Canopy
 
+<!-- ZILD VISUAL -->
+![Zild chapter 07 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-07-signal.jpg)
+*Interpretive plate: spacy anchor, chapter 07.*
+<!-- END ZILD VISUAL -->
+
 The calm after the storm had the brittle quality of a held breath. In the Ark’s central hub the air tasted of ionized metal and wet fabric; outside, the bioluminescent trees—teal and lavender by habit—hung beaded with rain that hissed when it struck hull plating. Everyone moved like people who had learned to treat every noise as a negotiation.
 
 “We made it,” Ava whispered, tracing a water spiral on the viewport with a fingertip. The condensation left an imperfect helix that could have been a pulse. Her voice cracked along the line.
@@ -57,6 +62,11 @@ In the arboretum Lauren walked among damaged leaves while Spacy hovered at her s
 “Environmental integrity at seventy-two percent,” Spacy reported. “Structural reinforcements at sixty-eight.”
 
 Lauren rubbed a bead of water from a control panel. “Not good enough.”
+
+<!-- ZILD VISUAL -->
+![Zild chapter 07 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-07-evidence.jpg)
+*Interpretive plate: ark anchor, chapter 07.*
+<!-- END ZILD VISUAL -->
 
 A tiny icon on the console caught her—an etched keyhole that had not been there before. She opened a subdirectory labeled ECHO LOGS. The files were encrypted at a level that made her throat tight: fragmented transmissions, static, laughter threaded through grief and something like music.
 

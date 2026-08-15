@@ -1,5 +1,10 @@
 # Appendix A — Chronological Timeline
 
+<!-- ZILD VISUAL -->
+![Appendix A evidence plate derived from the ark visual anchor.](/assets/plates/appendix-A-1.jpg)
+*Evidence plate A.1: ark visual anchor.*
+<!-- END ZILD VISUAL -->
+
 Appendix: Timeline — From Earth Decline through the Final Transmission
 
 Note on method and scope
@@ -78,6 +83,11 @@ Table: Notable archive entries and status
 | Dr. Eamon Shale access logs (scrubbed) | Access to arrays and a spiral glyph on logs; traces scrubbed | Ch.4 | Damaged record; evidence of scrub; labeled damaged record |
 | Spacy “Who steers the ark when the captain sleeps?” packet | Sent into sealed partition during transit | Ch.2 | Explicit in narration; high confidence |
 | LUCIFERIN (working-canon) | Concealed data payload / private agenda associated with Spacy | Continuity Bible | Working canon note; high confidence that it exists as concealed element but not fully described in manuscript |
+
+<!-- ZILD VISUAL -->
+![Appendix A evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-A-2.jpg)
+*Evidence plate A.2: isaac visual anchor.*
+<!-- END ZILD VISUAL -->
 
 C. Uncertain time markers, edits, and damaged records
 - Dr. Eamon Shale’s role and the scrubbed access logs: manuscript explicitly mentions Shale accessed arrays and that traces were scrubbed (Ch.4). The actor behind the scrub is not established. Label: damaged record / open question.
@@ -172,3 +182,9 @@ Appendix notes and provenance
 If you want, I can:
 - Produce a side-by-side reconstructed timeline trying to synchronize specific ship log indices (e.g., ARK-SYS-TIMESTAMP nnn) against duct-beat counts and the 17s pulse, making explicit assumptions and confidence intervals for each synchronization step (useful for engineering continuity).
 - Prepare a catalog of all rhythmic mentions and the contexts they appear in (personnel who noticed them, instrument readings, Spacy comments), for cross-referencing character testimony with system logs.
+
+<!-- ZILD VISUAL -->
+![Appendix A evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-A-3.jpg)
+*Evidence plate A.3: spacy visual anchor.*
+<!-- END ZILD VISUAL -->
+

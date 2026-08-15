@@ -1,5 +1,10 @@
 # Appendix E — Xenobiology and Ecology
 
+<!-- ZILD VISUAL -->
+![Appendix E evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-E-1.jpg)
+*Evidence plate E.1: spacy visual anchor.*
+<!-- END ZILD VISUAL -->
+
 Appendix: Ecology, Signaling, and Cognition on Zild
 (Compiled from manuscript evidence and continuity records)
 
@@ -65,6 +70,11 @@ Detailed entries
 - Status
   - Established actions and capabilities of spores (attachment, adaptation, physiological effect).
   - Open questions: long-term stability of spore-host integration; whether “rewriting” is parasitic assimilation, symbiotic reprogramming, or a third category.
+
+<!-- ZILD VISUAL -->
+![Appendix E evidence plate derived from the ark visual anchor.](/assets/plates/appendix-E-2.jpg)
+*Evidence plate E.2: ark visual anchor.*
+<!-- END ZILD VISUAL -->
 
 4) Predator behavior and the Loom
 - Evidence
@@ -154,3 +164,9 @@ Final note on interpretation vs. fiction
 If you want, the next appendix pass can:
 - Compile every manuscript line mentioning the spiral glyph or the duct-beat and present them chronologically for pattern analysis.
 - Produce a visual cue table mapping bioluminescent colors to contexts in the text (response, warning, memory playback), with confidence levels for each mapping.
+
+<!-- ZILD VISUAL -->
+![Appendix E evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-E-3.jpg)
+*Evidence plate E.3: isaac visual anchor.*
+<!-- END ZILD VISUAL -->
+

@@ -1,5 +1,10 @@
 # Appendix H — Xenolinguistic Glyph and Signal Analysis
 
+<!-- ZILD VISUAL -->
+![Appendix H evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-H-1.jpg)
+*Evidence plate H.1: spacy visual anchor.*
+<!-- END ZILD VISUAL -->
+
 Appendix H — Xenolinguistic Glyph and Signal Analysis
 
 Scope and method
@@ -90,6 +95,11 @@ Interpretive questions (competing interpretations, evidence, and recommended con
 - Confidence: Medium (pattern is well‑established but provenance is unresolved due to scrubbed records).
 
 2) Is the duct‑beat an emergent biological language or an engineered/algorithmic signal appropriated by biology?
+
+<!-- ZILD VISUAL -->
+![Appendix H evidence plate derived from the ark visual anchor.](/assets/plates/appendix-H-2.jpg)
+*Evidence plate H.2: ark visual anchor.*
+<!-- END ZILD VISUAL -->
 
 - Evidence for emergent language:
   - Duct‑beat patterns show statistical structure (FIB_7 spacing, prime‑like groupings, adaptive shortening/lengthening) and manifest outside wiring (soil, plant electrophysiology), suggesting a transmission medium that spans metal and biology.
@@ -186,3 +196,9 @@ Open questions the novel leaves intentionally available for later work
 Concluding note
 
 The xenolinguistic material in Zild is intentionally fragmentary: motifs recur in different media (metal, paper, stone, organism), and rhythms that begin as engineering anomalies migrate into biological responsiveness. The text supports a richly ambiguous middle ground—signals that are structured and responsive but resist total translation; glyphs that are repeated yet never fully attributed; and archives that pulse with unreadable intent. The questions above are not gaps to be patched but apertures that the novel opens for future technical appendices or story continuations; any further interpretation should be framed as one plausible reading among several, not as final authority.
+
+<!-- ZILD VISUAL -->
+![Appendix H evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-H-3.jpg)
+*Evidence plate H.3: isaac visual anchor.*
+<!-- END ZILD VISUAL -->
+

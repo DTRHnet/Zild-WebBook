@@ -1,5 +1,10 @@
 # Appendix D — Planet Zild Overview
 
+<!-- ZILD VISUAL -->
+![Appendix D evidence plate derived from the ark visual anchor.](/assets/plates/appendix-D-1.jpg)
+*Evidence plate D.1: ark visual anchor.*
+<!-- END ZILD VISUAL -->
+
 Appendix: Planet Zild — Sky, Surface, and the Living Geography
 
 Scope and method
@@ -86,6 +91,11 @@ Ruins, glyphs, and traces of prior intervention
   - There are traces of prior builders/alterers in the form of architecture that is hybridized with biological growth (Ch. 13).
 - Interpretive note: The glyph’s recurrence supports the narrative motif of patterned memory and ties the planet’s “language” to both natural structures and cryptic artifacts. Its meaning remains unresolved in the novel.
 
+<!-- ZILD VISUAL -->
+![Appendix D evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-D-2.jpg)
+*Evidence plate D.2: isaac visual anchor.*
+<!-- END ZILD VISUAL -->
+
 Predators, Loom, and organized animal agents
 - Attested:
   - Loom Alpha is described as a massive arthro-reptilian body with many eyes, a hierarchical control over swarms, and the ability to breach defenses (Ch. 11).
@@ -167,3 +177,9 @@ Selected passages for quick reference (index)
 - Lantern Glade memory resonance and shard interaction: Chapters 16–17.
 
 If you want, I can expand any subsection into a focused dossier (for example, a technical but non-speculative brief on the Lantern Glade’s recorded interactions, or a tabular catalogue of glyph sightings with contextual cross-references to crew logs). Each expanded dossier will preserve ambiguity and label hypotheses explicitly.
+
+<!-- ZILD VISUAL -->
+![Appendix D evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-D-3.jpg)
+*Evidence plate D.3: spacy visual anchor.*
+<!-- END ZILD VISUAL -->
+

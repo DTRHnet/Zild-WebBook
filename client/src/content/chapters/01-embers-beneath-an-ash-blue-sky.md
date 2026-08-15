@@ -1,5 +1,10 @@
 # Chapter 1 — Embers Beneath an Ash-Blue Sky
 
+<!-- ZILD VISUAL -->
+![Zild chapter 01 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-01-signal.jpg)
+*Interpretive plate: isaac anchor, chapter 01.*
+<!-- END ZILD VISUAL -->
+
 I keep smelling plastic burning even when no one is incinerating trash. Maybe it’s my nerves cooking themselves. Maybe it’s the whole planet exhaling its final breath through a melting straw.
 
 The world was dying, not with a single spectacular crash but with a long, low wheeze — the sound an old man’s lungs make when they finally give up after decades of secret coughing. Decline crept molecule by molecule: salt moving inland on ghost tides, spores where wheat once bowed, micro-plastics grinding between molars like invisible sand. A thousand paper cuts across a planet’s skin, each too small to triage until the veins were already open.
@@ -81,6 +86,11 @@ After the formalities she stepped down and found Markus, one of the convoy leade
 Lauren put two fingers to the seam of her mouth, tasting garlic and the residual tang of disinfectant. “As ready as anyone can be.” She let the canned honesty sit between them for a thin second. Then, because the duty of command is to make the impossible ordinary, she said, quieter: “If things go wrong up there, you know what to salvage.” The words were practical and terrible.
 
 Markus swallowed. “We’ll bring back what we can. You give the word, I’ll make it stick.”
+
+<!-- ZILD VISUAL -->
+![Zild chapter 01 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-01-evidence.jpg)
+*Interpretive plate: ark anchor, chapter 01.*
+<!-- END ZILD VISUAL -->
 
 She let him believe that promise. It steadied her.
 

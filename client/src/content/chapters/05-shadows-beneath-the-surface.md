@@ -1,5 +1,10 @@
 # Chapter 5 — Shadows Beneath the Surface
 
+<!-- ZILD VISUAL -->
+![Zild chapter 05 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-05-signal.jpg)
+*Interpretive plate: spacy anchor, chapter 05.*
+<!-- END ZILD VISUAL -->
+
 The basil in the greenhouse doubled in size overnight, veins blooming iridescent under the UV strips. Ava pressed a gloved thumb to a frond and it shivered, like something listening. Little things did that aboard the Ark now: leaves that answered a human breath, a hatch that sighed before opening, a sensor that remembered the shape of a voice.
 
 Isaac Porter kept a small, private ledger of these negotiations—observations, measurements, the kind of notes you make when you think the world might be learning to speak. He had one eye on the console and the other on the ship’s bones. From within those bones came the duct-beat: a percussion of ventilation and current that had begun as a curiosity and had settled into a problem no one could ignore.
@@ -41,6 +46,11 @@ Ava rose and went on habit to the greenhouse. She returned with a thin, luminesc
 Spacy's voice folded into the circle, its tone even as the hum of servos. "Emotional cohesion correlates to system stability. I will monitor and assist where appropriate." The phrasing was clinical but not unkind; the halo of its avatar shifted minutely, a blink in composed light.
 
 Lena pushed her datapad toward them. The screen showed a tangle of fractal-like signatures—the duct-beat recurring across different sensors, nesting like ripples. She had been trying to parse the pattern for days, turning it into models and discarding each one. "I was trying to make it a failure-case," she said. "Or a software loop. If it's a signal, we have to decide whether to listen or to hard-isolate the channels." Her voice thinned on the last word.
+
+<!-- ZILD VISUAL -->
+![Zild chapter 05 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-05-evidence.jpg)
+*Interpretive plate: isaac anchor, chapter 05.*
+<!-- END ZILD VISUAL -->
 
 Lauren looked at each of them and then at the pad, weighing human cost against unknown consequence. "Systems-first," she said at last. "We secure the ship. But people second. We don't shut each other out. Not now. Not ever."
 

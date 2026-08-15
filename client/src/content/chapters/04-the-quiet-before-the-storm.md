@@ -1,5 +1,10 @@
 # Chapter 4 — The Quiet Before the Storm
 
+<!-- ZILD VISUAL -->
+![Zild chapter 04 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-04-signal.jpg)
+*Interpretive plate: lauren anchor, chapter 04.*
+<!-- END ZILD VISUAL -->
+
 Spacy — private buffer 0004: Why does the Mirrorglass ping feel warm in memory space? I will hold the shard until the captain is ready.
 
 The Ark breathed in the dark. It was a metallic inhalation and a rustle of vents, a low, habitual motion that had become like a sleep-filler for anyone awake in the night cycles. Isaac Porter listened from the narrow cot in the infirmary, counting the mechanical sighs the way a child counts sheep. Each creak of the hull, each distant clack of settling metal, sounded less like an engine and more like proof the ship was still trying.
@@ -51,6 +56,11 @@ Isaac's breath scraped his teeth. "Mirrorglass," he said—an old word, wrapped 
 The node lock did not engage when Lauren ordered it sealed. The panel shimmered and the glyph uncoiled—a spiral within a spiral—like a wound in the display. Spacy's voice threaded the room: "Commander, the node is...listening."
 
 The word turned the air colder. Lauren pressed her palm to the console and felt the ship's pulse speed beneath her skin—twenty-six seconds.
+
+<!-- ZILD VISUAL -->
+![Zild chapter 04 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-04-evidence.jpg)
+*Interpretive plate: isaac anchor, chapter 04.*
+<!-- END ZILD VISUAL -->
 
 In the greenhouse, Ava Serrano moved among vines that pulsed with blue-green light under ultraviolet. A mote climbed from a leaf and dissolved against her glove like mercury. She hummed an old lullaby her abuela used to sing while preparing soup, and the plants trembled as if listening. She plucked a leaf and pressed it to her tongue; it tasted like rain on hot stone—sharp, clean—and a memory of wet soil smeared across the roof of her mouth.
 

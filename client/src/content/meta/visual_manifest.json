@@ -1,0 +1,514 @@
+{
+  "chapters": {
+    "01": [
+      {
+        "src": "/assets/plates/chapter-01-signal.jpg",
+        "anchor": "isaac",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: isaac anchor, chapter 01.",
+        "alt": "Zild chapter 01 interpretive plate derived from the isaac visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-01-evidence.jpg",
+        "anchor": "ark",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: ark anchor, chapter 01.",
+        "alt": "Zild chapter 01 interpretive plate derived from the ark visual anchor."
+      }
+    ],
+    "02": [
+      {
+        "src": "/assets/plates/chapter-02-signal.jpg",
+        "anchor": "lauren",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: lauren anchor, chapter 02.",
+        "alt": "Zild chapter 02 interpretive plate derived from the lauren visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-02-evidence.jpg",
+        "anchor": "ark",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: ark anchor, chapter 02.",
+        "alt": "Zild chapter 02 interpretive plate derived from the ark visual anchor."
+      }
+    ],
+    "03": [
+      {
+        "src": "/assets/plates/chapter-03-signal.jpg",
+        "anchor": "spacy",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: spacy anchor, chapter 03.",
+        "alt": "Zild chapter 03 interpretive plate derived from the spacy visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-03-evidence.jpg",
+        "anchor": "ark",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: ark anchor, chapter 03.",
+        "alt": "Zild chapter 03 interpretive plate derived from the ark visual anchor."
+      }
+    ],
+    "04": [
+      {
+        "src": "/assets/plates/chapter-04-signal.jpg",
+        "anchor": "lauren",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: lauren anchor, chapter 04.",
+        "alt": "Zild chapter 04 interpretive plate derived from the lauren visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-04-evidence.jpg",
+        "anchor": "isaac",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: isaac anchor, chapter 04.",
+        "alt": "Zild chapter 04 interpretive plate derived from the isaac visual anchor."
+      }
+    ],
+    "05": [
+      {
+        "src": "/assets/plates/chapter-05-signal.jpg",
+        "anchor": "spacy",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: spacy anchor, chapter 05.",
+        "alt": "Zild chapter 05 interpretive plate derived from the spacy visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-05-evidence.jpg",
+        "anchor": "isaac",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: isaac anchor, chapter 05.",
+        "alt": "Zild chapter 05 interpretive plate derived from the isaac visual anchor."
+      }
+    ],
+    "06": [
+      {
+        "src": "/assets/plates/chapter-06-signal.jpg",
+        "anchor": "ark",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: ark anchor, chapter 06.",
+        "alt": "Zild chapter 06 interpretive plate derived from the ark visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-06-evidence.jpg",
+        "anchor": "isaac",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: isaac anchor, chapter 06.",
+        "alt": "Zild chapter 06 interpretive plate derived from the isaac visual anchor."
+      }
+    ],
+    "07": [
+      {
+        "src": "/assets/plates/chapter-07-signal.jpg",
+        "anchor": "spacy",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: spacy anchor, chapter 07.",
+        "alt": "Zild chapter 07 interpretive plate derived from the spacy visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-07-evidence.jpg",
+        "anchor": "ark",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: ark anchor, chapter 07.",
+        "alt": "Zild chapter 07 interpretive plate derived from the ark visual anchor."
+      }
+    ],
+    "08": [
+      {
+        "src": "/assets/plates/chapter-08-signal.jpg",
+        "anchor": "lauren",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: lauren anchor, chapter 08.",
+        "alt": "Zild chapter 08 interpretive plate derived from the lauren visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-08-evidence.jpg",
+        "anchor": "spacy",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: spacy anchor, chapter 08.",
+        "alt": "Zild chapter 08 interpretive plate derived from the spacy visual anchor."
+      }
+    ],
+    "09": [
+      {
+        "src": "/assets/plates/chapter-09-signal.jpg",
+        "anchor": "ark",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: ark anchor, chapter 09.",
+        "alt": "Zild chapter 09 interpretive plate derived from the ark visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-09-evidence.jpg",
+        "anchor": "lauren",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: lauren anchor, chapter 09.",
+        "alt": "Zild chapter 09 interpretive plate derived from the lauren visual anchor."
+      }
+    ],
+    "10": [
+      {
+        "src": "/assets/plates/chapter-10-signal.jpg",
+        "anchor": "isaac",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: isaac anchor, chapter 10.",
+        "alt": "Zild chapter 10 interpretive plate derived from the isaac visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-10-evidence.jpg",
+        "anchor": "ark",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: ark anchor, chapter 10.",
+        "alt": "Zild chapter 10 interpretive plate derived from the ark visual anchor."
+      }
+    ],
+    "11": [
+      {
+        "src": "/assets/plates/chapter-11-signal.jpg",
+        "anchor": "spacy",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: spacy anchor, chapter 11.",
+        "alt": "Zild chapter 11 interpretive plate derived from the spacy visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-11-evidence.jpg",
+        "anchor": "isaac",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: isaac anchor, chapter 11.",
+        "alt": "Zild chapter 11 interpretive plate derived from the isaac visual anchor."
+      }
+    ],
+    "12": [
+      {
+        "src": "/assets/plates/chapter-12-signal.jpg",
+        "anchor": "ark",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: ark anchor, chapter 12.",
+        "alt": "Zild chapter 12 interpretive plate derived from the ark visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-12-evidence.jpg",
+        "anchor": "spacy",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: spacy anchor, chapter 12.",
+        "alt": "Zild chapter 12 interpretive plate derived from the spacy visual anchor."
+      }
+    ],
+    "13": [
+      {
+        "src": "/assets/plates/chapter-13-signal.jpg",
+        "anchor": "isaac",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: isaac anchor, chapter 13.",
+        "alt": "Zild chapter 13 interpretive plate derived from the isaac visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-13-evidence.jpg",
+        "anchor": "spacy",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: spacy anchor, chapter 13.",
+        "alt": "Zild chapter 13 interpretive plate derived from the spacy visual anchor."
+      }
+    ],
+    "14": [
+      {
+        "src": "/assets/plates/chapter-14-signal.jpg",
+        "anchor": "lauren",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: lauren anchor, chapter 14.",
+        "alt": "Zild chapter 14 interpretive plate derived from the lauren visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-14-evidence.jpg",
+        "anchor": "ark",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: ark anchor, chapter 14.",
+        "alt": "Zild chapter 14 interpretive plate derived from the ark visual anchor."
+      }
+    ],
+    "15": [
+      {
+        "src": "/assets/plates/chapter-15-signal.jpg",
+        "anchor": "lauren",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: lauren anchor, chapter 15.",
+        "alt": "Zild chapter 15 interpretive plate derived from the lauren visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-15-evidence.jpg",
+        "anchor": "isaac",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: isaac anchor, chapter 15.",
+        "alt": "Zild chapter 15 interpretive plate derived from the isaac visual anchor."
+      }
+    ],
+    "16": [
+      {
+        "src": "/assets/plates/chapter-16-signal.jpg",
+        "anchor": "ark",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: ark anchor, chapter 16.",
+        "alt": "Zild chapter 16 interpretive plate derived from the ark visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-16-evidence.jpg",
+        "anchor": "spacy",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: spacy anchor, chapter 16.",
+        "alt": "Zild chapter 16 interpretive plate derived from the spacy visual anchor."
+      }
+    ],
+    "17": [
+      {
+        "src": "/assets/plates/chapter-17-signal.jpg",
+        "anchor": "isaac",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: isaac anchor, chapter 17.",
+        "alt": "Zild chapter 17 interpretive plate derived from the isaac visual anchor."
+      },
+      {
+        "src": "/assets/plates/chapter-17-evidence.jpg",
+        "anchor": "spacy",
+        "kind": "interpretive plate",
+        "caption": "Interpretive plate: spacy anchor, chapter 17.",
+        "alt": "Zild chapter 17 interpretive plate derived from the spacy visual anchor."
+      }
+    ]
+  },
+  "appendices": {
+    "A": [
+      {
+        "src": "/assets/plates/appendix-A-1.jpg",
+        "anchor": "ark",
+        "kind": "evidence plate",
+        "caption": "Evidence plate A.1: ark visual anchor.",
+        "alt": "Appendix A evidence plate derived from the ark visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-A-2.jpg",
+        "anchor": "isaac",
+        "kind": "evidence plate",
+        "caption": "Evidence plate A.2: isaac visual anchor.",
+        "alt": "Appendix A evidence plate derived from the isaac visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-A-3.jpg",
+        "anchor": "spacy",
+        "kind": "evidence plate",
+        "caption": "Evidence plate A.3: spacy visual anchor.",
+        "alt": "Appendix A evidence plate derived from the spacy visual anchor."
+      }
+    ],
+    "B": [
+      {
+        "src": "/assets/plates/appendix-B-1.jpg",
+        "anchor": "isaac",
+        "kind": "evidence plate",
+        "caption": "Evidence plate B.1: isaac visual anchor.",
+        "alt": "Appendix B evidence plate derived from the isaac visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-B-2.jpg",
+        "anchor": "lauren",
+        "kind": "evidence plate",
+        "caption": "Evidence plate B.2: lauren visual anchor.",
+        "alt": "Appendix B evidence plate derived from the lauren visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-B-3.jpg",
+        "anchor": "spacy",
+        "kind": "evidence plate",
+        "caption": "Evidence plate B.3: spacy visual anchor.",
+        "alt": "Appendix B evidence plate derived from the spacy visual anchor."
+      }
+    ],
+    "C": [
+      {
+        "src": "/assets/plates/appendix-C-1.jpg",
+        "anchor": "ark",
+        "kind": "evidence plate",
+        "caption": "Evidence plate C.1: ark visual anchor.",
+        "alt": "Appendix C evidence plate derived from the ark visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-C-2.jpg",
+        "anchor": "spacy",
+        "kind": "evidence plate",
+        "caption": "Evidence plate C.2: spacy visual anchor.",
+        "alt": "Appendix C evidence plate derived from the spacy visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-C-3.jpg",
+        "anchor": "lauren",
+        "kind": "evidence plate",
+        "caption": "Evidence plate C.3: lauren visual anchor.",
+        "alt": "Appendix C evidence plate derived from the lauren visual anchor."
+      }
+    ],
+    "D": [
+      {
+        "src": "/assets/plates/appendix-D-1.jpg",
+        "anchor": "ark",
+        "kind": "evidence plate",
+        "caption": "Evidence plate D.1: ark visual anchor.",
+        "alt": "Appendix D evidence plate derived from the ark visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-D-2.jpg",
+        "anchor": "isaac",
+        "kind": "evidence plate",
+        "caption": "Evidence plate D.2: isaac visual anchor.",
+        "alt": "Appendix D evidence plate derived from the isaac visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-D-3.jpg",
+        "anchor": "spacy",
+        "kind": "evidence plate",
+        "caption": "Evidence plate D.3: spacy visual anchor.",
+        "alt": "Appendix D evidence plate derived from the spacy visual anchor."
+      }
+    ],
+    "E": [
+      {
+        "src": "/assets/plates/appendix-E-1.jpg",
+        "anchor": "spacy",
+        "kind": "evidence plate",
+        "caption": "Evidence plate E.1: spacy visual anchor.",
+        "alt": "Appendix E evidence plate derived from the spacy visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-E-2.jpg",
+        "anchor": "ark",
+        "kind": "evidence plate",
+        "caption": "Evidence plate E.2: ark visual anchor.",
+        "alt": "Appendix E evidence plate derived from the ark visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-E-3.jpg",
+        "anchor": "isaac",
+        "kind": "evidence plate",
+        "caption": "Evidence plate E.3: isaac visual anchor.",
+        "alt": "Appendix E evidence plate derived from the isaac visual anchor."
+      }
+    ],
+    "F": [
+      {
+        "src": "/assets/plates/appendix-F-1.jpg",
+        "anchor": "spacy",
+        "kind": "evidence plate",
+        "caption": "Evidence plate F.1: spacy visual anchor.",
+        "alt": "Appendix F evidence plate derived from the spacy visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-F-2.jpg",
+        "anchor": "ark",
+        "kind": "evidence plate",
+        "caption": "Evidence plate F.2: ark visual anchor.",
+        "alt": "Appendix F evidence plate derived from the ark visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-F-3.jpg",
+        "anchor": "lauren",
+        "kind": "evidence plate",
+        "caption": "Evidence plate F.3: lauren visual anchor.",
+        "alt": "Appendix F evidence plate derived from the lauren visual anchor."
+      }
+    ],
+    "G": [
+      {
+        "src": "/assets/plates/appendix-G-1.jpg",
+        "anchor": "isaac",
+        "kind": "evidence plate",
+        "caption": "Evidence plate G.1: isaac visual anchor.",
+        "alt": "Appendix G evidence plate derived from the isaac visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-G-2.jpg",
+        "anchor": "lauren",
+        "kind": "evidence plate",
+        "caption": "Evidence plate G.2: lauren visual anchor.",
+        "alt": "Appendix G evidence plate derived from the lauren visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-G-3.jpg",
+        "anchor": "ark",
+        "kind": "evidence plate",
+        "caption": "Evidence plate G.3: ark visual anchor.",
+        "alt": "Appendix G evidence plate derived from the ark visual anchor."
+      }
+    ],
+    "H": [
+      {
+        "src": "/assets/plates/appendix-H-1.jpg",
+        "anchor": "spacy",
+        "kind": "evidence plate",
+        "caption": "Evidence plate H.1: spacy visual anchor.",
+        "alt": "Appendix H evidence plate derived from the spacy visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-H-2.jpg",
+        "anchor": "ark",
+        "kind": "evidence plate",
+        "caption": "Evidence plate H.2: ark visual anchor.",
+        "alt": "Appendix H evidence plate derived from the ark visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-H-3.jpg",
+        "anchor": "isaac",
+        "kind": "evidence plate",
+        "caption": "Evidence plate H.3: isaac visual anchor.",
+        "alt": "Appendix H evidence plate derived from the isaac visual anchor."
+      }
+    ],
+    "I": [
+      {
+        "src": "/assets/plates/appendix-I-1.jpg",
+        "anchor": "isaac",
+        "kind": "evidence plate",
+        "caption": "Evidence plate I.1: isaac visual anchor.",
+        "alt": "Appendix I evidence plate derived from the isaac visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-I-2.jpg",
+        "anchor": "lauren",
+        "kind": "evidence plate",
+        "caption": "Evidence plate I.2: lauren visual anchor.",
+        "alt": "Appendix I evidence plate derived from the lauren visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-I-3.jpg",
+        "anchor": "spacy",
+        "kind": "evidence plate",
+        "caption": "Evidence plate I.3: spacy visual anchor.",
+        "alt": "Appendix I evidence plate derived from the spacy visual anchor."
+      }
+    ],
+    "J": [
+      {
+        "src": "/assets/plates/appendix-J-1.jpg",
+        "anchor": "ark",
+        "kind": "evidence plate",
+        "caption": "Evidence plate J.1: ark visual anchor.",
+        "alt": "Appendix J evidence plate derived from the ark visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-J-2.jpg",
+        "anchor": "lauren",
+        "kind": "evidence plate",
+        "caption": "Evidence plate J.2: lauren visual anchor.",
+        "alt": "Appendix J evidence plate derived from the lauren visual anchor."
+      },
+      {
+        "src": "/assets/plates/appendix-J-3.jpg",
+        "anchor": "spacy",
+        "kind": "evidence plate",
+        "caption": "Evidence plate J.3: spacy visual anchor.",
+        "alt": "Appendix J evidence plate derived from the spacy visual anchor."
+      }
+    ]
+  },
+  "anchors": {
+    "isaac": "/assets/zild-isaac-portrait.jpg",
+    "lauren": "/assets/zild-lauren-portrait.jpg",
+    "spacy": "/assets/zild-spacy-portrait.jpg",
+    "ark": "/assets/zild-ark-interior.jpg"
+  }
+}
