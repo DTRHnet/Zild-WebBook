@@ -57,6 +57,12 @@
       "finalSrc": "/audio/09-the-return-to-the-ark.mp3",
       "finalDurationSeconds": 1179.29,
       "note": "Assembled from six plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
+    },
+    "10-predators-lullaby-under-two-moons": {
+      "status": "verified MP3",
+      "finalSrc": "/audio/10-predators-lullaby-under-two-moons.mp3",
+      "finalDurationSeconds": 1003.73,
+      "note": "Assembled from five plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
     }
   }
 }
