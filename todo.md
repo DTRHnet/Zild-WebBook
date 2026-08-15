@@ -33,3 +33,9 @@
 - [ ] Add a verified audio control beside each completed chapter in the web app table of contents.
 - [ ] Push each validated chapter audio file and linked table-of-contents update before beginning the next chapter.
 - [ ] Package every verified chapter file without overwriting completed work.
+
+# MP3 Narration Redo
+
+- [ ] Retire the inconsistent WAV deliverable and remove its playback link.
+- [ ] Regenerate every final chapter as compressed MP3 using one steady narrator profile.
+- [ ] Validate narration consistency and file integrity before linking each chapter.

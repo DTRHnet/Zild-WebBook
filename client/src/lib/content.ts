@@ -25,9 +25,7 @@ export type ReadingItem = {
 };
 
 // Updated only after a chapter has been fully assembled and validated.
-const verifiedAudiobooks: Record<string, string> = {
-  "01-embers-beneath-an-ash-blue-sky": "/audio/01-embers-beneath-an-ash-blue-sky.wav",
-};
+const verifiedAudiobooks: Record<string, string> = {};
 
 const chapterFiles = import.meta.glob("../content/chapters/*.md", {
   query: "?raw",
