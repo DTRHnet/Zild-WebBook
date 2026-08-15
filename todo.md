@@ -62,10 +62,18 @@
 
 # Chapter 3 Plain Text Audiobook Workflow
 
-- [ ] Inspect Chapter 3 source and prepare plain-text chunks.
-- [ ] Generate and checkpoint each Chapter 3 chunk immediately as MP3.
-- [ ] Assemble and validate one Chapter 3 MP3.
-- [ ] Link Chapter 3 audio in the web app and push the completed chapter.
+# All-Chapter Audio Link Coverage
+
+- [ ] Audit table-of-contents entries and chapter-page headers for all 17 chapters.
+- [ ] Add completed audio links and explicit pending states wherever audio is not yet available.
+- [ ] Build and verify completed and pending audio states.
+- [ ] Commit and push the complete audio-link update to GitHub.
+
+
+- [x] Inspect Chapter 3 source and prepare plain-text chunks.
+- [x] Generate and checkpoint each Chapter 3 chunk immediately as MP3.
+- [x] Assemble and validate one Chapter 3 MP3.
+- [x] Link Chapter 3 audio in the web app and push the completed chapter.
 
 
 # Chapter 2 Plain Text TTS Test
