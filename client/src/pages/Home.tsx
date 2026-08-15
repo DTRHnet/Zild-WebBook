@@ -1,0 +1,26 @@
+/* Ash Archive direction: the landing page is an offset archive table—hero evidence, chapter constellation, and back matter arranged with editorial asymmetry rather than centered marketing blocks. */
+
+import { ArrowRight, BookOpen, Clock3, FileText, Sparkles } from "lucide-react";
+import { Link } from "wouter";
+import { chapters, appendices, formatWords } from "../lib/content";
+
+const heroImage = "/assets/zild-hero.webp";
+const arkImage = "/assets/zild-ark.webp";
+const canopyImage = "/assets/zild-canopy.webp";
+
+export default function Home() {
+  const first = chapters[0];
+  const totalWords = chapters.reduce((sum, chapter) => sum + chapter.words, 0);
+  return <div className="home-page">
+    <section className="hero-panel">
+      <img src={heroImage} alt="Two moons over a breathing alien forest and the buried Ark" className="hero-image" />
+      <div className="hero-shade" />
+      <div className="hero-copy"><div className="archive-tab">ACCESSION / Z3–001 <span>RECOVERED</span></div><span className="eyebrow light">ZILD / ECHOES UNDER TWO MOONS</span><h1>Ash remembers<br /><em>what fire forgets.</em></h1><p>The final expanded edition — seventeen chapters, ten evidence files, and a world that will not stay silent.</p><Link href={`/chapter/${first.slug}`} className="hero-cta">Read the signal from the beginning <ArrowRight size={16} /></Link></div><div className="hero-ledger"><span className="ledger-stamp">FIELD RECORD</span><span className="ledger-line" /><strong>01</strong><small>ASH-BLUE SKY<br />FIRST SIGNAL</small><i>◆</i></div><div className="hero-caption"><span>FINAL REVISION / Z3</span><span>THE FOREST IS LISTENING</span></div>
+    </section>
+    <section className="edition-strip"><div className="strip-lead"><span className="pulse-dot blue-pulse" /><span>RECOVERED EDITION</span></div><p>Expanded with relevant scene work, deeper character consequence, and planted details that earn their return.</p><Link href="/about">How to read this edition <ArrowRight size={15} /></Link></section>
+    <section className="book-intro"><div className="section-marker"><span>01</span><span>THE BOOK</span></div><div className="intro-copy"><span className="eyebrow">A LIVING ARCHIVE</span><h2>Seventeen chapters<br /><em>under two moons.</em></h2><p className="intro-lead">Humanity reaches for another world carrying its archives, its habits, and its unfinished arguments. Zild answers with forests that breathe in patterns, machines that remember too much, and a signal that may be an invitation.</p><div className="stats-row"><div><strong>{chapters.length}</strong><span>CHAPTERS</span></div><div><strong>{formatWords(totalWords)}</strong><span>WORDS</span></div><div><strong>{appendices.length}</strong><span>APPENDICES</span></div></div><Link href={`/chapter/${first.slug}`} className="text-cta">Open Chapter One <ArrowRight size={16} /></Link></div><div className="intro-art"><img src={canopyImage} alt="Mineral-blue signal threads in the breathing forest" /><span className="art-note">FIELD IMAGE / CANOPY SIGNAL</span></div></section>
+    <section className="chapter-section"><div className="section-head"><div><span className="eyebrow">02 / THE SEQUENCE</span><h2>Follow the pulse.</h2></div><p>Each chapter carries a motif forward. Start anywhere, but the first signal is still the clearest.</p></div><div className="chapter-grid">{chapters.map((chapter) => <Link key={chapter.slug} href={`/chapter/${chapter.slug}`} className="chapter-card"><span className="chapter-card-number">{chapter.number}</span><span className="chapter-card-copy"><strong>{chapter.title.replace(/^Chapter\s+\d+\s*[—:-]?\s*/i, "")}</strong><small>{chapter.motif}</small></span><ArrowRight size={16} /></Link>)}</div></section>
+    <section className="archive-feature"><div className="feature-image"><img src={arkImage} alt="Damaged Ark corridor with one mineral-blue diagnostic pulse" /><span className="art-note">ARCHIVE IMAGE / ARK INTERIOR</span></div><div className="feature-copy"><span className="eyebrow">03 / THE BACK MATTER</span><h2>Open the evidence<br /><em>behind the story.</em></h2><p>Chronology, Ark systems, xenobiology, AI architecture, signal analysis, rituals, risks, and the questions the novel leaves deliberately alive.</p><Link href="/appendices" className="primary-cta">Browse Appendices A–J <ArrowRight size={16} /></Link><div className="feature-index"><span><FileText size={15} /> {appendices.length} detailed files</span><span><Sparkles size={15} /> motifs tracked across the book</span><span><Clock3 size={15} /> read after the chapters</span></div></div></section>
+    <footer className="home-footer"><div className="footer-brand"><span className="footer-mark">Z</span><span><strong>ZILD</strong><small>RECOVERED EDITION</small></span></div><p>Some signals are instructions.<br />Some are only proof that someone was there.</p><Link href="/about">Archive note <ArrowRight size={15} /></Link></footer>
+  </div>;
+}
