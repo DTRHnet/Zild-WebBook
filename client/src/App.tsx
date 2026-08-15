@@ -6,6 +6,7 @@ import { Streamdown } from "streamdown";
 import { ArrowLeft, ArrowRight, BookOpen, ChevronRight, Menu, Search, Volume2, X } from "lucide-react";
 import { chapters, appendices, formatWords, getAdjacent, getItem, type ReadingItem } from "./lib/content";
 import Home from "./pages/Home";
+import AudioIndex from "./pages/AudioIndex";
 import { Button } from "./components/ui/button";
 
 function Mark({ small = false }: { small?: boolean }) {
@@ -30,7 +31,7 @@ function ArchiveRail({ onClose }: { onClose?: () => void }) {
       <div className="nav-label">THE BOOK <span>{chapters.length} CHAPTERS</span></div>
       {filtered.map((chapter) => <div className="chapter-row" key={chapter.slug}><Link href={`/chapter/${chapter.slug}`} onClick={onClose} className={location === `/chapter/${chapter.slug}` ? "chapter-link active" : "chapter-link"}><b>{chapter.number}</b><span>{chapter.title.replace(/^Chapter\s+\d+\s*[—:-]?\s*/i, "")}</span></Link>{chapter.audioSrc && <a className="chapter-audio-link" href={chapter.audioSrc} aria-label={`Listen to ${chapter.title}`} title="Listen to verified chapter audio"><Volume2 size={14} /></a>}</div>)}
     </nav>
-    <div className="rail-bottom"><Link href="/appendices" onClick={onClose} className={location === "/appendices" ? "archive-link active" : "archive-link"}><span className="pulse-dot" />Open the appendices <ChevronRight size={15} /></Link><Link href="/about" onClick={onClose} className="archive-link muted"><BookOpen size={15} />About this edition <ChevronRight size={15} /></Link></div>
+    <div className="rail-bottom"><Link href="/audio" onClick={onClose} className={location === "/audio" ? "archive-link active" : "archive-link"}><Volume2 size={15} />Audio ledger <ChevronRight size={15} /></Link><Link href="/appendices" onClick={onClose} className={location === "/appendices" ? "archive-link active" : "archive-link"}><span className="pulse-dot" />Open the appendices <ChevronRight size={15} /></Link><Link href="/about" onClick={onClose} className="archive-link muted"><BookOpen size={15} />About this edition <ChevronRight size={15} /></Link></div>
   </aside>;
 }
 
@@ -64,6 +65,6 @@ function AboutPage() { return <section className="about-page"><div className="re
 
 function NotFound() { return <section className="not-found"><span className="eyebrow">SIGNAL LOST</span><h1>This record is not in the archive.</h1><Link href="/">Return to the reading room <ArrowRight size={16} /></Link></section>; }
 
-function Router() { return <Switch><Route path="/" component={Home} /><Route path="/appendices" component={AppendixIndex} /><Route path="/about" component={AboutPage} /><Route path="/chapter/:slug">{(params) => { const item = getItem("chapter", params.slug); return item ? <ChapterPage item={item} /> : <NotFound />; }}</Route><Route path="/appendix/:slug">{(params) => { const item = getItem("appendix", params.slug); return item ? <AppendixPage item={item} /> : <NotFound />; }}</Route><Route component={NotFound} /></Switch>; }
+function Router() { return <Switch><Route path="/" component={Home} /><Route path="/audio" component={AudioIndex} /><Route path="/appendices" component={AppendixIndex} /><Route path="/about" component={AboutPage} /><Route path="/chapter/:slug">{(params) => { const item = getItem("chapter", params.slug); return item ? <ChapterPage item={item} /> : <NotFound />; }}</Route><Route path="/appendix/:slug">{(params) => { const item = getItem("appendix", params.slug); return item ? <AppendixPage item={item} /> : <NotFound />; }}</Route><Route component={NotFound} /></Switch>; }
 
 export default function App() { return <ReadingLayout><Router /></ReadingLayout>; }

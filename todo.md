@@ -39,3 +39,8 @@
 - [ ] Retire the inconsistent WAV deliverable and remove its playback link.
 - [ ] Regenerate every final chapter as compressed MP3 using one steady narrator profile.
 - [ ] Validate narration consistency and file integrity before linking each chapter.
+
+# Linked Audio Access
+
+- [ ] Publish an audio index page with direct links and live completion status for every chapter.
+- [ ] Place each completed MP3 in the repository’s public audio directory and link it from the index.

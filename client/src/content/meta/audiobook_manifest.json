@@ -1,0 +1,14 @@
+{
+  "edition": "Zild zild3 final revision",
+  "format": "MP3, 64 kbps mono",
+  "narrator": "Single fixed literary narrator",
+  "chapters": {
+    "01-embers-beneath-an-ash-blue-sky": {
+      "status": "narrator-lock sample",
+      "sampleSrc": "/audio/samples/chapter-01-opening-narrator-lock.mp3",
+      "sampleDurationSeconds": 202.61,
+      "finalSrc": null,
+      "note": "Opening segment only. The full chapter is being redone before final release."
+    }
+  }
+}

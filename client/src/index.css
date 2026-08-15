@@ -161,6 +161,31 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .about-columns p { color: #606762; font: 16px/1.65 'Source Serif 4', serif; }
 .not-found { text-align: center; padding-top: 20vh; }
 .not-found a { display: inline-flex; align-items: center; gap: 10px; color: var(--blue); margin-top: 30px; font-weight: 600; }
+.audio-index-page { padding: 76px clamp(35px, 8vw, 130px) 100px; }
+.audio-index-hero { display: flex; justify-content: space-between; align-items: end; gap: 35px; margin: 78px 0 65px; }
+.audio-index-hero h1 { font: 64px/.98 'DM Serif Display', serif; letter-spacing: -.035em; margin: 17px 0 20px; }
+.audio-index-hero p { max-width: 590px; color: #58635f; font: 18px/1.6 'Source Serif 4', serif; margin: 0; }
+.audio-spec { width: 190px; display: grid; gap: 8px; padding: 17px; border: 1px solid #a9c5c2; background: rgba(45,108,120,.045); color: var(--blue); }
+.audio-spec span { font: 700 9px 'IBM Plex Sans', sans-serif; letter-spacing: .14em; }
+.audio-spec strong { color: var(--ink); font: 16px 'DM Serif Display', serif; }
+.audio-spec small { color: #68746f; font: 10px/1.4 'IBM Plex Sans', sans-serif; }
+.audio-ledger-label, .audio-row { display: grid; grid-template-columns: 52px minmax(190px,1fr) 165px 146px; gap: 20px; align-items: center; }
+.audio-ledger-label { padding: 0 12px 11px; color: #7c8882; font: 700 9px 'IBM Plex Sans', sans-serif; letter-spacing: .13em; border-bottom: 2px solid var(--blue); }
+.audio-row { min-height: 82px; padding: 14px 12px; border-bottom: 1px solid var(--border); transition: background .18s, padding .18s var(--ease-out); }
+.audio-row.active:hover { background: var(--paper); padding-left: 18px; }
+.audio-row-number { color: var(--rust); font: 27px 'DM Serif Display', serif; }
+.audio-row-copy { display: grid; gap: 6px; }
+.audio-row-copy strong { color: var(--ink); font: 20px 'DM Serif Display', serif; }
+.audio-row-copy small { color: #717a75; font: 11px/1.45 'Source Serif 4', serif; }
+.audio-row-status { display: grid; gap: 5px; }
+.audio-row-status small { color: #758079; font: 9px 'IBM Plex Sans', sans-serif; letter-spacing: .08em; }
+.audio-status { width: fit-content; padding: 5px 7px; font: 700 8px 'IBM Plex Sans', sans-serif; letter-spacing: .12em; }
+.audio-status.pending { color: #737d77; background: #dfe0d9; }
+.audio-status.sample { color: #755a24; background: #eee0ba; }
+.audio-status.final { color: #e8f4f0; background: var(--blue); }
+.audio-access { display: inline-flex; justify-content: center; align-items: center; gap: 8px; padding: 10px 9px; color: #eff4ed; background: var(--blue); font: 700 9px 'IBM Plex Sans', sans-serif; letter-spacing: .08em; text-transform: uppercase; transition: transform .18s var(--ease-out), background .18s; }
+.audio-access:hover { background: #3f8790; transform: translateY(-2px); }
+.audio-access.disabled { color: #8b938e; background: #dfdfd7; cursor: default; }
 .icon-button, .rail-close { border: 0; background: transparent; color: inherit; }
 @media (max-width: 900px) { .desktop-rail { display: none; } .main-field { margin-left: 0; } .mobile-top { height: 66px; display: flex; position: sticky; top: 0; z-index: 30; align-items: center; justify-content: space-between; padding: 0 20px; background: rgba(16,45,53,.97); color: #e9eee9; } .mobile-brand { font: 21px 'DM Serif Display', serif; letter-spacing: .14em; } .mobile-appendix { color: #d5b16d; font: 10px 'IBM Plex Sans', sans-serif; letter-spacing: .13em; } .mobile-drawer { display: block; position: fixed; inset: 0; z-index: 40; background: rgba(8,24,28,.65); visibility: hidden; opacity: 0; transition: opacity .2s, visibility .2s; } .mobile-drawer.open { visibility: visible; opacity: 1; } .mobile-drawer .archive-rail { width: min(86vw, 330px); box-shadow: 10px 0 35px rgba(0,0,0,.22); } .rail-close { display: block; color: #aac5c1; } .hero-copy h1 { font-size: 65px; } .book-intro { grid-template-columns: 44px minmax(0,1fr); gap: 25px; } .intro-art { grid-column: 2; margin: 35px 0 0; } .archive-feature { grid-template-columns: 1fr; } .feature-image { min-height: 330px; } }
 @media (max-width: 640px) { .hero-panel { min-height: 630px; height: 83vh; } .hero-copy { left: 27px; right: 27px; top: 53%; } .hero-copy h1 { font-size: 54px; } .hero-copy p { font-size: 16px; } .hero-copy { padding-left: 13px; } .hero-ledger { display: none; } .hero-caption { left: 27px; right: 27px; font-size: 8px; } .edition-strip { grid-template-columns: 1fr; gap: 10px; padding: 19px 27px; } .edition-strip p { font-size: 13px; } .book-intro, .chapter-section, .reading-page, .index-page, .about-page { padding-left: 24px; padding-right: 24px; } .book-intro { padding-top: 78px; padding-bottom: 90px; gap: 15px; } .intro-copy h2, .section-head h2, .feature-copy h2 { font-size: 42px; } .section-marker { font-size: 8px; } .stats-row { gap: 20px; } .stats-row strong { font-size: 24px; } .section-head { display: block; } .section-head p { width: auto; margin-top: 16px; } .chapter-grid { grid-template-columns: 1fr; } .chapter-card:nth-child(odd) { border-right: 0; padding-right: 12px; } .chapter-card:nth-child(even) { padding-left: 12px; } .chapter-card:nth-child(even):hover { padding-left: 18px; } .feature-copy { padding: 70px 27px 77px; } .home-footer { grid-template-columns: 1fr; gap: 17px; padding: 28px 27px; } .reading-grid { display: block; margin-top: 45px; } .reading-meta { display: flex; align-items: center; margin-bottom: 30px; gap: 10px; } .meta-number { font-size: 30px; } .meta-label { max-width: 115px; } .meta-words { margin-left: auto; } .prose { font-size: 17px; line-height: 1.75; } .prose h1 { font-size: 48px; margin-bottom: 30px; } .reading-footer { margin-top: 55px; } .footer-pulse { display: none; } .footer-nav { max-width: 45%; font-size: 13px; } .index-hero { display: block; margin-top: 60px; } .index-hero h1, .about-copy h1, .not-found h1 { font-size: 50px; } .index-note { margin-top: 35px; } .appendix-row { grid-template-columns: 34px 48px 1fr 16px; gap: 10px; } .appendix-thumb { width: 48px; height: 38px; } .appendix-copy strong { font-size: 18px; } .about-copy { margin-top: 60px; } .about-copy .lead { font-size: 20px; margin: 30px 0 40px; } .about-columns { grid-template-columns: 1fr; gap: 20px; } }
