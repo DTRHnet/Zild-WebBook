@@ -52,9 +52,16 @@
 
 # Chapter 1 Sample Controls
 
-- [ ] Inspect chapter list, audio index, and chapter reading-page audio rendering.
-- [ ] Add visible sample listen and download controls beside Chapter 1 in navigation/table-of-contents views.
-- [ ] Add visible sample listen and download controls on the Chapter 1 reading page.
-- [ ] Build, verify, commit, and push the audio-control fix.
+# Chapter 1 Sample Append
+
+- [ ] Append the newly uploaded MP3 to the current Chapter 1 sample.
+- [ ] Replace the web-app sample and update the duration metadata.
+- [ ] Build, verify, commit, and push the appended sample.
+
+
+- [x] Inspect chapter list, audio index, and chapter reading-page audio rendering.
+- [x] Add visible sample listen and download controls beside Chapter 1 in navigation/table-of-contents views.
+- [x] Add visible sample listen and download controls on the Chapter 1 reading page.
+- [x] Build, verify, commit, and push the audio-control fix.
 
 <!-- Style reminder: preserve the Ash Archive visual language—quiet archival typography, restrained brass/teal accents, and clear accessible controls without decorative clutter. -->
