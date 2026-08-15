@@ -9,6 +9,12 @@
       "sampleDurationSeconds": 1171.435,
       "finalSrc": null,
       "note": "Combined Chapter 1 sample with the newest appended MP3 passage. The full chapter is still pending final release."
+    },
+    "02-launch-through-ash-and-void": {
+      "status": "verified MP3",
+      "finalSrc": "/audio/02-launch-through-ash-and-void.mp3",
+      "finalDurationSeconds": 1389.14,
+      "note": "Assembled from seven plain-text narration chunks using the fixed Charon narrator."
     }
   }
 }

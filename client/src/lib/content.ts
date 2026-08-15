@@ -28,7 +28,9 @@ export type ReadingItem = {
 };
 
 // Updated only after a chapter has been fully assembled and validated.
-const verifiedAudiobooks: Record<string, string> = {};
+const verifiedAudiobooks: Record<string, string> = {
+  "02-launch-through-ash-and-void": "/audio/02-launch-through-ash-and-void.mp3",
+};
 const audiobookEntries = audiobookManifest.chapters as Record<string, { sampleSrc?: string; sampleDurationSeconds?: number }>;
 
 const chapterFiles = import.meta.glob("../content/chapters/*.md", {

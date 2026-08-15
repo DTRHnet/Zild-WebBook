@@ -58,9 +58,24 @@
 
 # Sample Duration and Format Note
 
-- [ ] Verify the newest Chapter 1 sample duration against the MP3 file.
-- [ ] Update manifest duration metadata and add WAV/MP3 format copy to the main page.
-- [ ] Build, verify, commit, and push the update.
+# Chapter 2 Alternate Audiobook Workflow
+
+# Chapter 2 Plain Text TTS Test
+
+- [ ] Convert a small Chapter 2 test passage to plain narration text only.
+- [ ] Generate and checkpoint the plain-text test MP3.
+- [ ] Evaluate stability before continuing Chapter 2 production.
+
+
+- [ ] Inspect Chapter 2 source and create smaller resilient narration chunks.
+- [ ] Generate and checkpoint each Chapter 2 chunk immediately as MP3.
+- [ ] Assemble and validate one Chapter 2 MP3.
+- [ ] Link Chapter 2 audio in the web app and push the completed chapter.
+
+
+- [x] Verify the newest Chapter 1 sample duration against the MP3 file.
+- [x] Update manifest duration metadata and add WAV/MP3 format copy to the main page.
+- [x] Build, verify, commit, and push the update.
 
 
 - [x] Append the newly uploaded MP3 to the newest Chapter 1 sample.
