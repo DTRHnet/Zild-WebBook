@@ -1,6 +1,7 @@
 /* Ash Archive direction: the content index treats every chapter and appendix as a catalogued artifact, keeping navigation precise and the reading surface calm. */
 
 import visualManifest from "../content/meta/visual_manifest.json";
+import audiobookManifest from "../content/meta/audiobook_manifest.json";
 
 export type VisualPlate = {
   src: string;
@@ -22,10 +23,13 @@ export type ReadingItem = {
   motif: string;
   plates: VisualPlate[];
   audioSrc?: string;
+  sampleAudioSrc?: string;
+  sampleDurationSeconds?: number;
 };
 
 // Updated only after a chapter has been fully assembled and validated.
 const verifiedAudiobooks: Record<string, string> = {};
+const audiobookEntries = audiobookManifest.chapters as Record<string, { sampleSrc?: string; sampleDurationSeconds?: number }>;
 
 const chapterFiles = import.meta.glob("../content/chapters/*.md", {
   query: "?raw",
@@ -83,6 +87,8 @@ export const chapters: ReadingItem[] = Object.entries(chapterFiles)
     motif: motifs[index] ?? "Signal / memory",
     plates: typedManifest.chapters[String(index + 1).padStart(2, "0")] ?? [],
     audioSrc: verifiedAudiobooks[cleanSlug(path)],
+    sampleAudioSrc: audiobookEntries[cleanSlug(path)]?.sampleSrc,
+    sampleDurationSeconds: audiobookEntries[cleanSlug(path)]?.sampleDurationSeconds,
   }));
 
 export const appendices: ReadingItem[] = Object.entries(appendixFiles)

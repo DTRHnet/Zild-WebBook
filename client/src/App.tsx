@@ -8,6 +8,9 @@ import { chapters, appendices, formatWords, getAdjacent, getItem, type ReadingIt
 import Home from "./pages/Home";
 import AudioIndex from "./pages/AudioIndex";
 import { Button } from "./components/ui/button";
+import audiobookManifest from "./content/meta/audiobook_manifest.json";
+
+const audiobookEntries = audiobookManifest.chapters as Record<string, { sampleSrc?: string; sampleDurationSeconds?: number }>;
 
 function Mark({ small = false }: { small?: boolean }) {
   return <div className={small ? "mark mark-small" : "mark"} aria-label="Zild mark"><span /><span /><i /></div>;
@@ -29,7 +32,7 @@ function ArchiveRail({ onClose }: { onClose?: () => void }) {
     <div className="rail-search"><Search size={15} /><input value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Find a chapter" aria-label="Find a chapter" /></div>
     <nav className="chapter-nav" aria-label="Chapter navigation">
       <div className="nav-label">THE BOOK <span>{chapters.length} CHAPTERS</span></div>
-      {filtered.map((chapter) => <div className="chapter-row" key={chapter.slug}><Link href={`/chapter/${chapter.slug}`} onClick={onClose} className={location === `/chapter/${chapter.slug}` ? "chapter-link active" : "chapter-link"}><b>{chapter.number}</b><span>{chapter.title.replace(/^Chapter\s+\d+\s*[—:-]?\s*/i, "")}</span></Link>{chapter.audioSrc && <a className="chapter-audio-link" href={chapter.audioSrc} aria-label={`Listen to ${chapter.title}`} title="Listen to verified chapter audio"><Volume2 size={14} /></a>}</div>)}
+      {filtered.map((chapter) => { const audioHref = chapter.audioSrc ?? chapter.sampleAudioSrc; const sample = !chapter.audioSrc && Boolean(chapter.sampleAudioSrc); return <div className="chapter-row" key={chapter.slug}><Link href={`/chapter/${chapter.slug}`} onClick={onClose} className={location === `/chapter/${chapter.slug}` ? "chapter-link active" : "chapter-link"}><b>{chapter.number}</b><span>{chapter.title.replace(/^Chapter\s+\d+\s*[—:-]?\s*/i, "")}</span></Link>{audioHref && <a className="chapter-audio-link" href={audioHref} download={sample} aria-label={sample ? `Download the ${chapter.title} sample` : `Listen to ${chapter.title}`} title={sample ? "Download Chapter 1 sample" : "Listen to verified chapter audio"}><Volume2 size={14} /></a>}</div>; })}
     </nav>
     <div className="rail-bottom"><Link href="/audio" onClick={onClose} className={location === "/audio" ? "archive-link active" : "archive-link"}><Volume2 size={15} />Audio ledger <ChevronRight size={15} /></Link><Link href="/appendices" onClick={onClose} className={location === "/appendices" ? "archive-link active" : "archive-link"}><span className="pulse-dot" />Open the appendices <ChevronRight size={15} /></Link><Link href="/about" onClick={onClose} className="archive-link muted"><BookOpen size={15} />About this edition <ChevronRight size={15} /></Link></div>
   </aside>;
@@ -48,9 +51,12 @@ function ReadingLayout({ children }: { children: React.ReactNode }) {
 
 function ChapterPage({ item }: { item: ReadingItem }) {
   const { previous, next } = getAdjacent(item);
+  const sampleAudioSrc = audiobookEntries[item.slug]?.sampleSrc;
+  const chapterAudioSrc = item.audioSrc ?? sampleAudioSrc;
+  const isSample = !item.audioSrc && Boolean(sampleAudioSrc);
   return <article className="reading-page">
     <div className="reading-crumb"><span>FINAL REVISION</span><i /> CHAPTER {item.number}</div>
-    <div className="reading-grid"><aside className="reading-meta"><span className="meta-number">{item.number}</span><span className="meta-label">{item.motif}</span><span className="meta-words">{formatWords(item.words)} words</span><span className="meta-plates">{item.plates.length} visual plates</span>{item.audioSrc && <a className="chapter-listen" href={item.audioSrc}><Volume2 size={14} />Listen / verified</a>}</aside><div className="prose-wrap"><div className="chapter-kicker">ZILD / EXPANDED EDITION</div><Streamdown className="prose">{item.raw}</Streamdown><footer className="reading-footer"><Link href={previous ? `/chapter/${previous.slug}` : "/"} className="footer-nav"><ArrowLeft size={16} /><span><small>PREVIOUS</small>{previous?.title ?? "The archive"}</span></Link><div className="footer-pulse"><span /><span /><span /><span /><span /></div><Link href={next ? `/chapter/${next.slug}` : "/appendices"} className="footer-nav next"><span><small>{next ? "NEXT CHAPTER" : "BACK MATTER"}</small>{next?.title ?? "The appendices"}</span><ArrowRight size={16} /></Link></footer></div></div>
+    <div className="reading-grid"><aside className="reading-meta"><span className="meta-number">{item.number}</span><span className="meta-label">{item.motif}</span><span className="meta-words">{formatWords(item.words)} words</span><span className="meta-plates">{item.plates.length} visual plates</span>{chapterAudioSrc && <a className="chapter-listen" href={chapterAudioSrc} download={isSample} aria-label={isSample ? `Download the Chapter ${item.number} sample` : `Listen to ${item.title}`}><Volume2 size={14} />{isSample ? "Download sample" : "Listen / verified"}</a>}</aside><div className="prose-wrap"><div className="chapter-kicker">ZILD / EXPANDED EDITION</div><Streamdown className="prose">{item.raw}</Streamdown><footer className="reading-footer"><Link href={previous ? `/chapter/${previous.slug}` : "/"} className="footer-nav"><ArrowLeft size={16} /><span><small>PREVIOUS</small>{previous?.title ?? "The archive"}</span></Link><div className="footer-pulse"><span /><span /><span /><span /><span /></div><Link href={next ? `/chapter/${next.slug}` : "/appendices"} className="footer-nav next"><span><small>{next ? "NEXT CHAPTER" : "BACK MATTER"}</small>{next?.title ?? "The appendices"}</span><ArrowRight size={16} /></Link></footer></div></div>
   </article>;
 }
 

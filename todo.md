@@ -44,3 +44,17 @@
 
 - [ ] Publish an audio index page with direct links and live completion status for every chapter.
 - [ ] Place each completed MP3 in the repository’s public audio directory and link it from the index.
+
+# Audiobook Skill Assessment
+
+- [ ] Search verified skill repositories for a reliable audiobook or TTS production workflow.
+- [ ] Assess any suitable skill against the fixed-narrator MP3 requirements.
+
+# Chapter 1 Sample Controls
+
+- [ ] Inspect chapter list, audio index, and chapter reading-page audio rendering.
+- [ ] Add visible sample listen and download controls beside Chapter 1 in navigation/table-of-contents views.
+- [ ] Add visible sample listen and download controls on the Chapter 1 reading page.
+- [ ] Build, verify, commit, and push the audio-control fix.
+
+<!-- Style reminder: preserve the Ash Archive visual language—quiet archival typography, restrained brass/teal accents, and clear accessible controls without decorative clutter. -->
