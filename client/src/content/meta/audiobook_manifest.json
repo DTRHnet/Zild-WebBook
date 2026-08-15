@@ -45,6 +45,12 @@
       "finalSrc": "/audio/07-prime-pulse-under-neon-canopy.mp3",
       "finalDurationSeconds": 769.08,
       "note": "Assembled from five plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
+    },
+    "08-echoes-of-the-inhibitors-edge": {
+      "status": "verified MP3",
+      "finalSrc": "/audio/08-echoes-of-the-inhibitors-edge.mp3",
+      "finalDurationSeconds": 920.57,
+      "note": "Assembled from five plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
     }
   }
 }
