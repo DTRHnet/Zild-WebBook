@@ -27,6 +27,12 @@
       "finalSrc": "/audio/04-the-quiet-before-the-storm.mp3",
       "finalDurationSeconds": 883.63,
       "note": "Assembled from four plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
+    },
+    "05-shadows-beneath-the-surface": {
+      "status": "verified MP3",
+      "finalSrc": "/audio/05-shadows-beneath-the-surface.mp3",
+      "finalDurationSeconds": 876.14,
+      "note": "Assembled from five plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
     }
   }
 }

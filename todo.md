@@ -67,7 +67,7 @@
 # Remaining Audiobook Production: Chapters 4–17
 
 - [ ] Audit Chapters 4–17 for missing spoken chapter numbers and titles.
-- [ ] Produce Chapter 4 with a spoken opening, checkpointed segments, final MP3, manifest link, and GitHub push.
+- [x] Produce Chapter 4 with a spoken opening, checkpointed segments, final MP3, manifest link, and GitHub push.
 - [ ] Produce Chapters 5–8 with spoken openings, checkpointed segments, final MP3s, manifest links, and per-chapter GitHub pushes.
 - [ ] Produce Chapters 9–12 with spoken openings, checkpointed segments, final MP3s, manifest links, and per-chapter GitHub pushes.
 - [ ] Produce Chapters 13–17 with spoken openings, checkpointed segments, final MP3s, manifest links, and per-chapter GitHub pushes.
