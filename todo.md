@@ -24,3 +24,12 @@
 - [x] Create deterministic evidence crops and plate variants from those anchors for remaining chapter and appendix placements.
 - [x] Link every chapter and appendix visual with restrained captions and cross-references.
 - [x] Verify the final Vercel build and push the revised webbook.
+
+# Persistent Audiobook Recovery
+
+- [ ] Recreate bounded narration segments from the final zild3 chapters.
+- [ ] Maintain a JSON completion ledger after every saved audio segment.
+- [ ] Concatenate and validate each chapter immediately after its segments complete.
+- [ ] Add a verified audio control beside each completed chapter in the web app table of contents.
+- [ ] Push each validated chapter audio file and linked table-of-contents update before beginning the next chapter.
+- [ ] Package every verified chapter file without overwriting completed work.

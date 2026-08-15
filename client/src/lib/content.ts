@@ -21,6 +21,12 @@ export type ReadingItem = {
   words: number;
   motif: string;
   plates: VisualPlate[];
+  audioSrc?: string;
+};
+
+// Updated only after a chapter has been fully assembled and validated.
+const verifiedAudiobooks: Record<string, string> = {
+  "01-embers-beneath-an-ash-blue-sky": "/audio/01-embers-beneath-an-ash-blue-sky.wav",
 };
 
 const chapterFiles = import.meta.glob("../content/chapters/*.md", {
@@ -78,6 +84,7 @@ export const chapters: ReadingItem[] = Object.entries(chapterFiles)
     words: wordCount(raw),
     motif: motifs[index] ?? "Signal / memory",
     plates: typedManifest.chapters[String(index + 1).padStart(2, "0")] ?? [],
+    audioSrc: verifiedAudiobooks[cleanSlug(path)],
   }));
 
 export const appendices: ReadingItem[] = Object.entries(appendixFiles)

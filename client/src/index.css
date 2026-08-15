@@ -41,6 +41,11 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .chapter-link:hover { color: #f4f0e6; background: rgba(173,204,196,.08); transform: translateX(3px); }
 .chapter-link.active { color: #f4f0e6; background: rgba(173,204,196,.14); }
 .chapter-link.active b { color: #d5b16d; }
+.chapter-row { display: flex; align-items: stretch; border-left: 1px solid transparent; }
+.chapter-row:has(.chapter-link.active) { border-left-color: #d5b16d; }
+.chapter-row .chapter-link { flex: 1; min-width: 0; }
+.chapter-audio-link { width: 30px; display: inline-flex; align-items: center; justify-content: center; color: #7fb6be; border-left: 1px solid #355862; background: rgba(45,108,120,.11); transition: color .18s, background .18s, transform .18s var(--ease-out); }
+.chapter-audio-link:hover { color: #f4f0e6; background: rgba(45,108,120,.38); transform: translateX(1px); }
 .rail-bottom { border-top: 1px solid #355862; padding-top: 20px; margin-top: 18px; display: grid; gap: 5px; }
 .archive-link { display: flex; align-items: center; gap: 9px; padding: 9px 7px; color: #c1d1cb; font-size: 12px; transition: color .18s, transform .18s var(--ease-out); }
 .archive-link svg:last-child { margin-left: auto; }
@@ -118,6 +123,7 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .meta-number { color: var(--rust); font: 43px 'DM Serif Display', serif; }
 .meta-label { color: var(--blue); font: 700 9px/1.4 'IBM Plex Sans', sans-serif; letter-spacing: .12em; text-transform: uppercase; border-top: 1px solid #a9c5c2; padding-top: 9px; }
 .meta-words { color: #8a908b; font-size: 10px; } .meta-plates { color: var(--blue); font: 9px 'IBM Plex Sans', sans-serif; letter-spacing: .11em; text-transform: uppercase; }
+.chapter-listen { display: inline-flex; align-items: center; gap: 6px; color: var(--blue); border-top: 1px solid #a9c5c2; padding-top: 10px; font: 700 8px 'IBM Plex Sans', sans-serif; letter-spacing: .1em; text-transform: uppercase; }
 .prose-wrap { min-width: 0; }
 .chapter-kicker { color: #8c918c; font: 10px 'IBM Plex Sans', sans-serif; letter-spacing: .16em; margin-bottom: 22px; }
 .prose { color: #262b2a; font: 18px/1.82 'Source Serif 4', serif; }
