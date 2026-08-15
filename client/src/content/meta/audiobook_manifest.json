@@ -6,9 +6,9 @@
     "01-embers-beneath-an-ash-blue-sky": {
       "status": "narrator-lock sample",
       "sampleSrc": "/audio/samples/chapter-01-opening-narrator-lock.mp3",
-      "sampleDurationSeconds": 202.61,
+      "sampleDurationSeconds": 704.91,
       "finalSrc": null,
-      "note": "Opening segment only. The full chapter is being redone before final release."
+      "note": "Combined Chapter 1 sample from two sequential MP3 parts. The full chapter is still pending final release."
     }
   }
 }
