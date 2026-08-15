@@ -21,6 +21,12 @@
       "finalSrc": "/audio/03-hearts-in-the-vacuum-pulse-in-the-ductwork.mp3",
       "finalDurationSeconds": 1025.59,
       "note": "Assembled from five plain-text narration chunks using the fixed Charon narrator."
+    },
+    "04-the-quiet-before-the-storm": {
+      "status": "verified MP3",
+      "finalSrc": "/audio/04-the-quiet-before-the-storm.mp3",
+      "finalDurationSeconds": 883.63,
+      "note": "Assembled from four plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
     }
   }
 }

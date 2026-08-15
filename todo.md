@@ -64,10 +64,20 @@
 
 # All-Chapter Audio Link Coverage
 
-- [ ] Audit table-of-contents entries and chapter-page headers for all 17 chapters.
-- [ ] Add completed audio links and explicit pending states wherever audio is not yet available.
-- [ ] Build and verify completed and pending audio states.
-- [ ] Commit and push the complete audio-link update to GitHub.
+# Remaining Audiobook Production: Chapters 4–17
+
+- [ ] Audit Chapters 4–17 for missing spoken chapter numbers and titles.
+- [ ] Produce Chapter 4 with a spoken opening, checkpointed segments, final MP3, manifest link, and GitHub push.
+- [ ] Produce Chapters 5–8 with spoken openings, checkpointed segments, final MP3s, manifest links, and per-chapter GitHub pushes.
+- [ ] Produce Chapters 9–12 with spoken openings, checkpointed segments, final MP3s, manifest links, and per-chapter GitHub pushes.
+- [ ] Produce Chapters 13–17 with spoken openings, checkpointed segments, final MP3s, manifest links, and per-chapter GitHub pushes.
+- [ ] Validate the complete audiobook collection and final audio ledger.
+
+
+- [x] Audit table-of-contents entries and chapter-page headers for all 17 chapters.
+- [x] Add completed audio links and explicit pending states wherever audio is not yet available.
+- [x] Build and verify completed and pending audio states.
+- [x] Commit and push the complete audio-link update to GitHub.
 
 
 - [x] Inspect Chapter 3 source and prepare plain-text chunks.
