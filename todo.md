@@ -54,9 +54,16 @@
 
 # Chapter 1 Sample Append
 
-- [ ] Append the newly uploaded MP3 to the current Chapter 1 sample.
-- [ ] Replace the web-app sample and update the duration metadata.
-- [ ] Build, verify, commit, and push the appended sample.
+# Latest Chapter 1 Sample Append
+
+- [ ] Append the newly uploaded MP3 to the newest Chapter 1 sample.
+- [ ] Replace the web-app sample and update duration metadata.
+- [ ] Build, verify, commit, and push the newest sample.
+
+
+- [x] Append the newly uploaded MP3 to the current Chapter 1 sample.
+- [x] Replace the web-app sample and update the duration metadata.
+- [x] Build, verify, commit, and push the appended sample.
 
 
 - [x] Inspect chapter list, audio index, and chapter reading-page audio rendering.
