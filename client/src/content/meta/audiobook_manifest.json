@@ -99,6 +99,12 @@
       "finalSrc": "/audio/16-ashes-of-the-ark.mp3",
       "finalDurationSeconds": 703.68,
       "note": "Assembled from four plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
+    },
+    "17-we-who-remember": {
+      "status": "verified MP3",
+      "finalSrc": "/audio/17-we-who-remember.mp3",
+      "finalDurationSeconds": 929.93,
+      "note": "Assembled from five plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
     }
   }
 }
