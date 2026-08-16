@@ -76,7 +76,8 @@
 - [x] Produce Chapter 13 with a spoken opening, five checkpointed segments, final MP3, manifest link, and GitHub push.
 - [x] Produce Chapter 14 with a spoken opening, five checkpointed segments, final MP3, manifest link, and GitHub push.
 - [x] Produce Chapter 15 with a spoken opening, five checkpointed segments, final MP3, manifest link, and GitHub push.
-- [ ] Produce Chapters 16–17 with spoken openings, checkpointed segments, final MP3s, manifest links, and per-chapter GitHub pushes.
+- [x] Produce Chapter 16 with a spoken opening, four checkpointed segments, final MP3, manifest link, and GitHub push.
+- [ ] Produce Chapter 17 with a spoken opening, checkpointed segments, final MP3, manifest link, and GitHub push.
 - [ ] Validate the complete audiobook collection and final audio ledger.
 
 
