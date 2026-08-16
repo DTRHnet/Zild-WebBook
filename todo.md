@@ -71,7 +71,8 @@
 - [x] Produce Chapters 5–8 with spoken openings, checkpointed segments, final MP3s, manifest links, and per-chapter GitHub pushes. Chapters 5–8 complete in commits c61c93c, 93546de, e59d22a, and 8165deb.
 - [x] Produce Chapter 9 with a spoken opening, six checkpointed segments, final MP3, manifest link, and GitHub push.
 - [x] Produce Chapter 10 with a spoken opening, five checkpointed segments, final MP3, manifest link, and GitHub push.
-- [ ] Produce Chapters 11–12 with spoken openings, checkpointed segments, final MP3s, manifest links, and per-chapter GitHub pushes.
+- [x] Produce Chapter 11 with a spoken opening, five checkpointed segments, final MP3, manifest link, and GitHub push.
+- [ ] Produce Chapter 12 with a spoken opening, checkpointed segments, final MP3, manifest link, and GitHub push.
 - [ ] Produce Chapters 13–17 with spoken openings, checkpointed segments, final MP3s, manifest links, and per-chapter GitHub pushes.
 - [ ] Validate the complete audiobook collection and final audio ledger.
 

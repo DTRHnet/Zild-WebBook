@@ -63,6 +63,12 @@
       "finalSrc": "/audio/10-predators-lullaby-under-two-moons.mp3",
       "finalDurationSeconds": 1003.73,
       "note": "Assembled from five plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
+    },
+    "11-the-loom-awakens": {
+      "status": "verified MP3",
+      "finalSrc": "/audio/11-the-loom-awakens.mp3",
+      "finalDurationSeconds": 962.78,
+      "note": "Assembled from five plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
     }
   }
 }
