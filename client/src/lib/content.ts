@@ -41,6 +41,7 @@ const verifiedAudiobooks: Record<string, string> = {
   "11-the-loom-awakens": "/audio/11-the-loom-awakens.mp3",
   "12-the-hollow-dawn": "/audio/12-the-hollow-dawn.mp3",
   "13-the-forest-eats-silence": "/audio/13-the-forest-eats-silence.mp3",
+  "14-the-sundering": "/audio/14-the-sundering.mp3",
 };
 const audiobookEntries = audiobookManifest.chapters as Record<string, { sampleSrc?: string; sampleDurationSeconds?: number; finalSrc?: string; finalDurationSeconds?: number }>;
 

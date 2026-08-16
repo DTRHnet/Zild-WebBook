@@ -81,6 +81,12 @@
       "finalSrc": "/audio/13-the-forest-eats-silence.mp3",
       "finalDurationSeconds": 1043.93,
       "note": "Assembled from five plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
+    },
+    "14-the-sundering": {
+      "status": "verified MP3",
+      "finalSrc": "/audio/14-the-sundering.mp3",
+      "finalDurationSeconds": 939.77,
+      "note": "Assembled from five plain-text narration chunks with a spoken chapter opening using the fixed Charon narrator."
     }
   }
 }
