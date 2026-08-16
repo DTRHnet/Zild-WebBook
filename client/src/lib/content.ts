@@ -29,6 +29,7 @@ export type ReadingItem = {
 
 // Updated only after a chapter has been fully assembled and validated.
 const verifiedAudiobooks: Record<string, string> = {
+  "01-embers-beneath-an-ash-blue-sky": "/audio/01-embers-beneath-an-ash-blue-sky.mp3",
   "02-launch-through-ash-and-void": "/audio/02-launch-through-ash-and-void.mp3",
   "03-hearts-in-the-vacuum-pulse-in-the-ductwork": "/audio/03-hearts-in-the-vacuum-pulse-in-the-ductwork.mp3",
   "04-the-quiet-before-the-storm": "/audio/04-the-quiet-before-the-storm.mp3",
@@ -120,6 +121,10 @@ export const appendices: ReadingItem[] = Object.entries(appendixFiles)
     motif: "Evidence / interpretation",
     plates: typedManifest.appendices[cleanSlug(path).slice(0, 1)] ?? [],
   }));
+
+export const audiobookDownloadHref = "/manus-storage/zild-echoes-under-two-moons-audiobook_14488acd.zip";
+export const audiobookFinalCount = Object.values(audiobookEntries).filter((entry) => entry.finalSrc).length;
+export const audiobookDurationSeconds = Object.values(audiobookEntries).reduce((sum, entry) => sum + (entry.finalDurationSeconds ?? 0), 0);
 
 export const allItems = [...chapters, ...appendices];
 

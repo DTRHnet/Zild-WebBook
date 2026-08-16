@@ -78,7 +78,10 @@
 - [x] Produce Chapter 15 with a spoken opening, five checkpointed segments, final MP3, manifest link, and GitHub push.
 - [x] Produce Chapter 16 with a spoken opening, four checkpointed segments, final MP3, manifest link, and GitHub push.
 - [x] Produce Chapter 17 with a spoken opening, five checkpointed segments, final MP3, manifest link, and GitHub push.
-- [ ] Validate the complete audiobook collection and final audio ledger.
+- [x] Validate the complete audiobook collection and final audio ledger.
+- [x] Replace the Chapter 1 narrator-lock sample with the final full-chapter MP3.
+- [x] Package all 17 final audiobook MP3s as a downloadable ZIP.
+- [x] Add a prominent audiobook section to the main reader page with collection download access.
 
 
 - [x] Audit table-of-contents entries and chapter-page headers for all 17 chapters.

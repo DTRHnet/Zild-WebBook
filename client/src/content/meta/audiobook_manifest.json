@@ -4,11 +4,12 @@
   "narrator": "Single fixed literary narrator",
   "chapters": {
     "01-embers-beneath-an-ash-blue-sky": {
-      "status": "narrator-lock sample",
+      "status": "verified MP3",
       "sampleSrc": "/audio/samples/chapter-01-opening-narrator-lock.mp3",
       "sampleDurationSeconds": 1171.435,
-      "finalSrc": null,
-      "note": "Combined Chapter 1 sample with the newest appended MP3 passage. The full chapter is still pending final release."
+      "finalSrc": "/audio/01-embers-beneath-an-ash-blue-sky.mp3",
+      "finalDurationSeconds": 1129.51,
+      "note": "Final full-chapter recording assembled from seven corrected plain-text narration chunks using the fixed Charon narrator, with a spoken chapter opening."
     },
     "02-launch-through-ash-and-void": {
       "status": "verified MP3",

@@ -72,6 +72,27 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .edition-strip p { margin: 0; color: #9bb1ad; font: 14px 'Source Serif 4', serif; }
 .audio-format-note { color: #d5b16d; font: 700 9px 'IBM Plex Sans', sans-serif; letter-spacing: .1em; white-space: nowrap; }
 .edition-strip a { display: inline-flex; align-items: center; gap: 10px; color: #d2e0d9; font-size: 11px; font-weight: 600; }
+/* Ash Archive direction: audiobook access is a dark field-record insert—quiet, tactile, asymmetric, and brass-marked rather than a generic centered media card. */
+.audiobook-section { display: grid; grid-template-columns: 90px minmax(0, 1fr) 210px; gap: 52px; align-items: center; padding: 86px clamp(36px, 8vw, 130px); background: #d8dfd8; border-top: 1px solid #b9c7bf; border-bottom: 1px solid #b9c7bf; }
+.audiobook-copy { max-width: 720px; }
+.audiobook-copy h2 { color: var(--blue-deep); font: 51px/.98 'DM Serif Display', serif; letter-spacing: -.025em; margin: 15px 0 22px; }
+.audiobook-copy > p { color: #4f5d59; font: 18px/1.6 'Source Serif 4', serif; max-width: 650px; margin: 0; }
+.audiobook-stats { display: flex; gap: 36px; border-top: 1px solid #b9c7bf; margin-top: 34px; padding-top: 17px; }
+.audiobook-stats div { display: grid; gap: 5px; }
+.audiobook-stats strong { color: var(--blue-deep); font: 28px 'DM Serif Display', serif; }
+.audiobook-stats span { color: #687873; font: 9px 'IBM Plex Sans', sans-serif; letter-spacing: .13em; }
+.audiobook-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 20px; margin-top: 30px; }
+.audio-download-cta, .audio-listen-cta { display: inline-flex; align-items: center; gap: 10px; font: 700 10px 'IBM Plex Sans', sans-serif; letter-spacing: .08em; text-transform: uppercase; transition: transform .18s var(--ease-out), background .18s, color .18s; }
+.audio-download-cta { padding: 14px 16px; background: var(--blue-deep); color: #f7f4ed; box-shadow: 0 4px 0 rgba(16,45,53,.18); }
+.audio-download-cta:hover { background: var(--blue); transform: translateY(-2px); }
+.audio-listen-cta { color: var(--blue); border-bottom: 1px solid #8eaaa6; padding: 8px 0; }
+.audio-listen-cta:hover { color: var(--rust); transform: translateX(3px); }
+.audiobook-mark { width: 178px; height: 178px; position: relative; display: grid; place-items: center; justify-self: end; border: 1px solid #9eb4ad; background: rgba(247,244,237,.3); transform: rotate(4deg); }
+.audiobook-mark .mark-ring { position: absolute; width: 92px; height: 112px; border: 2px solid var(--blue); border-radius: 50%; transform: rotate(-28deg); }
+.audiobook-mark .mark-ring.second { width: 92px; height: 112px; transform: rotate(25deg); border-color: #b38d51; }
+.audiobook-mark .mark-line { position: absolute; width: 94px; height: 2px; background: var(--blue-deep); transform: rotate(-6deg); }
+.audiobook-mark strong { position: relative; color: var(--blue-deep); font: 45px 'DM Serif Display', serif; }
+.audiobook-mark small { position: absolute; bottom: 17px; left: 18px; color: #6c817b; font: 8px/1.5 'IBM Plex Sans', sans-serif; letter-spacing: .15em; }
 .book-intro { padding: 130px clamp(36px, 8vw, 130px) 150px; display: grid; grid-template-columns: 90px minmax(300px, 460px) 1fr; gap: 52px; background: var(--paper); }
 .section-marker { display: flex; align-items: flex-start; gap: 12px; color: var(--blue); font-size: 10px; letter-spacing: .16em; writing-mode: vertical-rl; transform: rotate(180deg); }
 .section-marker span:first-child { color: var(--rust); }
@@ -119,6 +140,8 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .feature-index span { display: flex; align-items: center; gap: 9px; }
 .feature-index svg { color: #d5b16d; }
 .home-footer { display: grid; grid-template-columns: 1fr 1fr auto; align-items: center; gap: 25px; padding: 34px clamp(30px, 6vw, 95px); background: #0a2026; color: #b8c9c2; }
+@media (max-width: 900px) { .audiobook-section { grid-template-columns: 54px minmax(0, 1fr); gap: 28px; } .audiobook-mark { display: none; } }
+@media (max-width: 620px) { .audiobook-section { grid-template-columns: 1fr; padding: 66px 24px 72px; } .audiobook-section .section-marker { writing-mode: horizontal-tb; transform: none; } .audiobook-copy h2 { font-size: 42px; } .audiobook-stats { gap: 18px; flex-wrap: wrap; } .audiobook-actions { align-items: flex-start; flex-direction: column; } }
 .footer-mark { color: #d5b16d; font: 40px 'DM Serif Display', serif; }
 .home-footer p { color: #85a09d; font: 14px/1.4 'Source Serif 4', serif; margin: 0; }
 .home-footer a { display: flex; align-items: center; gap: 9px; font-size: 11px; color: #d5b16d; }
