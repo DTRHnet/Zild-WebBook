@@ -82,6 +82,9 @@
 - [x] Replace the Chapter 1 narrator-lock sample with the final full-chapter MP3.
 - [x] Package all 17 final audiobook MP3s as a downloadable ZIP.
 - [x] Add a prominent audiobook section to the main reader page with collection download access.
+- [x] Audit remaining image placeholders across chapters and appendices.
+- [x] Generate and integrate consistent replacement visual plates for every remaining placeholder.
+- [x] Build, verify, and push the completed visual update.
 
 
 - [x] Audit table-of-contents entries and chapter-page headers for all 17 chapters.
