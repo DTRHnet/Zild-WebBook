@@ -85,6 +85,9 @@
 - [x] Audit remaining image placeholders across chapters and appendices.
 - [x] Generate and integrate consistent replacement visual plates for every remaining placeholder.
 - [x] Build, verify, and push the completed visual update.
+- [x] Define appropriate additional appendix visual plates up to the practical asset limit.
+- [x] Generate, integrate, and validate the expanded appendix visual set.
+- [x] Push the expanded appendix visual update.
 
 
 - [x] Audit table-of-contents entries and chapter-page headers for all 17 chapters.
