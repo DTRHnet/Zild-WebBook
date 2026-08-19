@@ -1,7 +1,7 @@
 # Chapter 7 — Prime Pulse Under Neon Canopy
 
 <!-- ZILD VISUAL -->
-![Zild chapter 07 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-07-signal.jpg)
+![Zild chapter 07 interpretive plate derived from the spacy visual anchor.](/manus-storage/zild-spacy-portrait_59a23132.jpg)
 *Interpretive plate: spacy anchor, chapter 07.*
 <!-- END ZILD VISUAL -->
 
@@ -64,7 +64,7 @@ In the arboretum Lauren walked among damaged leaves while Spacy hovered at her s
 Lauren rubbed a bead of water from a control panel. “Not good enough.”
 
 <!-- ZILD VISUAL -->
-![Zild chapter 07 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-07-evidence.jpg)
+![Zild chapter 07 interpretive plate derived from the ark visual anchor.](/manus-storage/zild-canopy_1c912285.jpg)
 *Interpretive plate: ark anchor, chapter 07.*
 <!-- END ZILD VISUAL -->
 

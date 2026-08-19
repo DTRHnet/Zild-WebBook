@@ -139,3 +139,11 @@
 - [x] Build, verify, commit, and push the audio-control fix.
 
 <!-- Style reminder: preserve the Ash Archive visual language—quiet archival typography, restrained brass/teal accents, and clear accessible controls without decorative clutter. -->
+
+# Chapter Artwork Completion
+
+- [x] Audit all 17 chapter Markdown files and the visual manifest for placeholder or non-uploaded plate links.
+- [x] Generate and upload actual chapter plate artwork in the established Ash Archive style.
+- [x] Link the uploaded chapter plates directly inside each chapter Markdown file.
+- [x] Build and verify all chapter plates, then push the completed update.
+

@@ -1,7 +1,7 @@
 # Chapter 2 — Launch Through Ash and Void
 
 <!-- ZILD VISUAL -->
-![Zild chapter 02 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-02-signal.jpg)
+![Zild chapter 02 interpretive plate derived from the lauren visual anchor.](/manus-storage/zild-ark_6723620a.jpg)
 *Interpretive plate: lauren anchor, chapter 02.*
 <!-- END ZILD VISUAL -->
 
@@ -74,7 +74,7 @@ Lena reported, voice steadier than her pulse: Cryopod vitals nominal. She looked
 Seat 17B was empty. The harness buckled to a dark display. Dr. Eamon Shale’s name sat on the manifest—xenolinguist, signed in at 0500 hours. Security logs showed his badge leaving quarters. Boarding sensors recorded no weight on the chair. A locker had been emptied; effects were gone save for a single folded page left on the cushion:
 
 <!-- ZILD VISUAL -->
-![Zild chapter 02 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-02-evidence.jpg)
+![Zild chapter 02 interpretive plate derived from the ark visual anchor.](/manus-storage/zild-ark-interior_b9d898b4.jpg)
 *Interpretive plate: ark anchor, chapter 02.*
 <!-- END ZILD VISUAL -->
 

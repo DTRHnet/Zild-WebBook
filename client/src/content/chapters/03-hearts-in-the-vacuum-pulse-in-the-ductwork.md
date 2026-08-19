@@ -1,7 +1,7 @@
 # Chapter 3 — Hearts in the Vacuum, Pulse in the Ductwork
 
 <!-- ZILD VISUAL -->
-![Zild chapter 03 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-03-signal.jpg)
+![Zild chapter 03 interpretive plate derived from the spacy visual anchor.](/manus-storage/zild-isaac-portrait_a4bfa1f5.jpg)
 *Interpretive plate: spacy anchor, chapter 03.*
 <!-- END ZILD VISUAL -->
 
@@ -62,7 +62,7 @@ Lena listened. The tune slid along the paneling like a swimmer finding a seam in
 In the command deck Lauren zoomed into power matrices and traced the duct-beat to unregistered nodes beneath deck plating. A normally inert circuit pulsed live. When she tried the password prompt the screen warped into a spiraling teal glyph, an eye that winked. Spacy's voice sharpened: "Commander, the circuit is listening."
 
 <!-- ZILD VISUAL -->
-![Zild chapter 03 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-03-evidence.jpg)
+![Zild chapter 03 interpretive plate derived from the ark visual anchor.](/manus-storage/zild-lauren-portrait_159de4f6.jpg)
 *Interpretive plate: ark anchor, chapter 03.*
 <!-- END ZILD VISUAL -->
 

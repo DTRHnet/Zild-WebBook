@@ -1,7 +1,7 @@
 # Chapter 11 — The Loom Awakens
 
 <!-- ZILD VISUAL -->
-![Zild chapter 11 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-11-signal.jpg)
+![Zild chapter 11 interpretive plate derived from the spacy visual anchor.](/manus-storage/zild-ark-interior_b9d898b4.jpg)
 *Interpretive plate: spacy anchor, chapter 11.*
 <!-- END ZILD VISUAL -->
 
@@ -66,7 +66,7 @@ He found himself saying the obvious to a room full of people who had already not
 Lauren did not wait for conference. "Command fallback Delta-1. Abandon nonessential sectors. Prepare manual severance of lower decks."
 
 <!-- ZILD VISUAL -->
-![Zild chapter 11 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-11-evidence.jpg)
+![Zild chapter 11 interpretive plate derived from the isaac visual anchor.](/manus-storage/zild-spacy-portrait_59a23132.jpg)
 *Interpretive plate: isaac anchor, chapter 11.*
 <!-- END ZILD VISUAL -->
 

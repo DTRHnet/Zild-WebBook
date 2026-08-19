@@ -1,7 +1,7 @@
 # Chapter 13 — The Forest Eats Silence
 
 <!-- ZILD VISUAL -->
-![Zild chapter 13 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-13-signal.jpg)
+![Zild chapter 13 interpretive plate derived from the isaac visual anchor.](/manus-storage/zild-forest-plate_b85062e9.jpg)
 *Interpretive plate: isaac anchor, chapter 13.*
 <!-- END ZILD VISUAL -->
 
@@ -62,7 +62,7 @@ Isaac fell to his knees, forehead to fist. Lena, drawn like a moth to flame, mov
 Markus circled the chamber, rifle held close. "Parsing what?"
 
 <!-- ZILD VISUAL -->
-![Zild chapter 13 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-13-evidence.jpg)
+![Zild chapter 13 interpretive plate derived from the spacy visual anchor.](/manus-storage/zild-isaac-portrait_a4bfa1f5.jpg)
 *Interpretive plate: spacy anchor, chapter 13.*
 <!-- END ZILD VISUAL -->
 

@@ -1,7 +1,7 @@
 # Chapter 1 — Embers Beneath an Ash-Blue Sky
 
 <!-- ZILD VISUAL -->
-![Zild chapter 01 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-01-signal.jpg)
+![Zild chapter 01 interpretive plate derived from the isaac visual anchor.](/manus-storage/zild-hero_1472b9c5.jpg)
 *Interpretive plate: isaac anchor, chapter 01.*
 <!-- END ZILD VISUAL -->
 
@@ -88,7 +88,7 @@ Lauren put two fingers to the seam of her mouth, tasting garlic and the residual
 Markus swallowed. “We’ll bring back what we can. You give the word, I’ll make it stick.”
 
 <!-- ZILD VISUAL -->
-![Zild chapter 01 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-01-evidence.jpg)
+![Zild chapter 01 interpretive plate derived from the ark visual anchor.](/manus-storage/zild-isaac-portrait_a4bfa1f5.jpg)
 *Interpretive plate: ark anchor, chapter 01.*
 <!-- END ZILD VISUAL -->
 

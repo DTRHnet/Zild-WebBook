@@ -1,7 +1,7 @@
 # Chapter 14 — The Sundering
 
 <!-- ZILD VISUAL -->
-![Zild chapter 14 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-14-signal.jpg)
+![Zild chapter 14 interpretive plate derived from the lauren visual anchor.](/manus-storage/zild-ark_6723620a.jpg)
 *Interpretive plate: lauren anchor, chapter 14.*
 <!-- END ZILD VISUAL -->
 
@@ -58,7 +58,7 @@ She did not allow herself the private unravelling of tears. There would be time 
 In the medbay Lena injected the last viable dose of inhibitor into arms that shook. Each syringe bought hours, maybe days. Spacy’s voice came through the rack like a tide. "Multiple internal breaches detected. Compartmentalization failing. Recommend partial ejection of compromised sectors."
 
 <!-- ZILD VISUAL -->
-![Zild chapter 14 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-14-evidence.jpg)
+![Zild chapter 14 interpretive plate derived from the ark visual anchor.](/manus-storage/zild-hero_1472b9c5.jpg)
 *Interpretive plate: ark anchor, chapter 14.*
 <!-- END ZILD VISUAL -->
 

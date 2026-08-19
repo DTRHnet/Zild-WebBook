@@ -1,7 +1,7 @@
 # Chapter 17 — We Who Remember
 
 <!-- ZILD VISUAL -->
-![Zild chapter 17 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-17-signal.jpg)
+![Zild chapter 17 interpretive plate derived from the isaac visual anchor.](/manus-storage/zild-hero_1472b9c5.jpg)
 *Interpretive plate: isaac anchor, chapter 17.*
 <!-- END ZILD VISUAL -->
 
@@ -38,7 +38,7 @@ She could have made the Glade show them lists—everything the Ark had hoarded, 
 Ava walked down from the ridge. When her gloved hand met the ash, the rift's pulse answered through her palm as if the buried shard were a heartbeat extender. The Glade offered not a replay but an offering: small, embodied scenes—Isaac warming his thermos against half a dozen names; Lena whispering to a slide; Lauren pressing a hand to a viewport that held nothing but sky. Each image arrived tactilely, not as narrative but as touch. A hiss of steam from a ration kettle, the squeak of a drawer coaxed open, the weight of a child's small hand in an adult's fist.
 
 <!-- ZILD VISUAL -->
-![Zild chapter 17 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-17-evidence.jpg)
+![Zild chapter 17 interpretive plate derived from the spacy visual anchor.](/manus-storage/zild-spacy-portrait_59a23132.jpg)
 *Interpretive plate: spacy anchor, chapter 17.*
 <!-- END ZILD VISUAL -->
 

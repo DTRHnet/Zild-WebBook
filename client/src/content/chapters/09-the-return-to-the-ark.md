@@ -1,7 +1,7 @@
 # Chapter 9 — The Return to the Ark
 
 <!-- ZILD VISUAL -->
-![Zild chapter 09 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-09-signal.jpg)
+![Zild chapter 09 interpretive plate derived from the ark visual anchor.](/manus-storage/zild-ark_6723620a.jpg)
 *Interpretive plate: ark anchor, chapter 09.*
 <!-- END ZILD VISUAL -->
 
@@ -84,7 +84,7 @@ Spacy's voice was even. "Detected in subroutine ARK-SHADOW-09. Origin: unknown. 
 Silence gathered in the room. The crew had read Shale's private logs; the symbol matched marginal scribbles in his notes—an idiosyncratic mark that had been folded into myth in their small archive: the Serpent's Chorus.
 
 <!-- ZILD VISUAL -->
-![Zild chapter 09 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-09-evidence.jpg)
+![Zild chapter 09 interpretive plate derived from the lauren visual anchor.](/manus-storage/zild-isaac-portrait_a4bfa1f5.jpg)
 *Interpretive plate: lauren anchor, chapter 09.*
 <!-- END ZILD VISUAL -->
 

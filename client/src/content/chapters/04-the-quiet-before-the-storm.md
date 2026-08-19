@@ -1,7 +1,7 @@
 # Chapter 4 — The Quiet Before the Storm
 
 <!-- ZILD VISUAL -->
-![Zild chapter 04 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-04-signal.jpg)
+![Zild chapter 04 interpretive plate derived from the lauren visual anchor.](/manus-storage/zild-ark_6723620a.jpg)
 *Interpretive plate: lauren anchor, chapter 04.*
 <!-- END ZILD VISUAL -->
 
@@ -58,7 +58,7 @@ The node lock did not engage when Lauren ordered it sealed. The panel shimmered 
 The word turned the air colder. Lauren pressed her palm to the console and felt the ship's pulse speed beneath her skin—twenty-six seconds.
 
 <!-- ZILD VISUAL -->
-![Zild chapter 04 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-04-evidence.jpg)
+![Zild chapter 04 interpretive plate derived from the isaac visual anchor.](/manus-storage/zild-hero_1472b9c5.jpg)
 *Interpretive plate: isaac anchor, chapter 04.*
 <!-- END ZILD VISUAL -->
 

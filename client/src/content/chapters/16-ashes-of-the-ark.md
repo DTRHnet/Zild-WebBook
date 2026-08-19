@@ -1,7 +1,7 @@
 # Chapter 16 — Ashes of the Ark
 
 <!-- ZILD VISUAL -->
-![Zild chapter 16 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-16-signal.jpg)
+![Zild chapter 16 interpretive plate derived from the ark visual anchor.](/manus-storage/zild-ark-interior_b9d898b4.jpg)
 *Interpretive plate: ark anchor, chapter 16.*
 <!-- END ZILD VISUAL -->
 
@@ -38,7 +38,7 @@ Visions poured through her skin in a wash: Markus laughing at a table rimed with
 She staggered back and let herself sob because the hurt of hope could cut harder than resignation. The chasm’s light throbbed. Seventeen seconds. Sixteen. Fifteen.
 
 <!-- ZILD VISUAL -->
-![Zild chapter 16 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-16-evidence.jpg)
+![Zild chapter 16 interpretive plate derived from the spacy visual anchor.](/manus-storage/zild-forest-plate_b85062e9.jpg)
 *Interpretive plate: spacy anchor, chapter 16.*
 <!-- END ZILD VISUAL -->
 

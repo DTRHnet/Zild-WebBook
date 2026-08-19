@@ -1,7 +1,7 @@
 # Chapter 8 — Echoes of the Inhibitors Edge
 
 <!-- ZILD VISUAL -->
-![Zild chapter 08 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-08-signal.jpg)
+![Zild chapter 08 interpretive plate derived from the lauren visual anchor.](/manus-storage/zild-ark_6723620a.jpg)
 *Interpretive plate: lauren anchor, chapter 08.*
 <!-- END ZILD VISUAL -->
 
@@ -60,7 +60,7 @@ She said the words with the kind of authority that didn't invite debate, but Isa
 Lauren let the stylus rest between her fingers like a small instrument. "If it's a vector that can trigger psychomimetic response—"
 
 <!-- ZILD VISUAL -->
-![Zild chapter 08 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-08-evidence.jpg)
+![Zild chapter 08 interpretive plate derived from the spacy visual anchor.](/manus-storage/zild-spacy-portrait_59a23132.jpg)
 *Interpretive plate: spacy anchor, chapter 08.*
 <!-- END ZILD VISUAL -->
 

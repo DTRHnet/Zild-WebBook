@@ -1,7 +1,7 @@
 # Chapter 12 — The Hollow Dawn
 
 <!-- ZILD VISUAL -->
-![Zild chapter 12 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-12-signal.jpg)
+![Zild chapter 12 interpretive plate derived from the ark visual anchor.](/manus-storage/zild-hero_1472b9c5.jpg)
 *Interpretive plate: ark anchor, chapter 12.*
 <!-- END ZILD VISUAL -->
 
@@ -80,7 +80,7 @@ Inside, the basil had taken on grotesque scale. Leaves had become rolling blades
 Markus thumbed the rail launcher and shouted, “Back!”
 
 <!-- ZILD VISUAL -->
-![Zild chapter 12 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-12-evidence.jpg)
+![Zild chapter 12 interpretive plate derived from the spacy visual anchor.](/manus-storage/zild-lauren-portrait_159de4f6.jpg)
 *Interpretive plate: spacy anchor, chapter 12.*
 <!-- END ZILD VISUAL -->
 

@@ -1,7 +1,7 @@
 # Chapter 5 — Shadows Beneath the Surface
 
 <!-- ZILD VISUAL -->
-![Zild chapter 05 interpretive plate derived from the spacy visual anchor.](/assets/plates/chapter-05-signal.jpg)
+![Zild chapter 05 interpretive plate derived from the spacy visual anchor.](/manus-storage/zild-forest-plate_b85062e9.jpg)
 *Interpretive plate: spacy anchor, chapter 05.*
 <!-- END ZILD VISUAL -->
 
@@ -48,7 +48,7 @@ Spacy's voice folded into the circle, its tone even as the hum of servos. "Emoti
 Lena pushed her datapad toward them. The screen showed a tangle of fractal-like signatures—the duct-beat recurring across different sensors, nesting like ripples. She had been trying to parse the pattern for days, turning it into models and discarding each one. "I was trying to make it a failure-case," she said. "Or a software loop. If it's a signal, we have to decide whether to listen or to hard-isolate the channels." Her voice thinned on the last word.
 
 <!-- ZILD VISUAL -->
-![Zild chapter 05 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-05-evidence.jpg)
+![Zild chapter 05 interpretive plate derived from the isaac visual anchor.](/manus-storage/zild-canopy_1c912285.jpg)
 *Interpretive plate: isaac anchor, chapter 05.*
 <!-- END ZILD VISUAL -->
 

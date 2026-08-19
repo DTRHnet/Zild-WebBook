@@ -1,7 +1,7 @@
 # Chapter 6 — Groundfall in the Breathing Forest
 
 <!-- ZILD VISUAL -->
-![Zild chapter 06 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-06-signal.jpg)
+![Zild chapter 06 interpretive plate derived from the ark visual anchor.](/manus-storage/zild-forest-plate_b85062e9.jpg)
 *Interpretive plate: ark anchor, chapter 06.*
 <!-- END ZILD VISUAL -->
 
@@ -52,7 +52,7 @@ Lena flexed a finger and watched a micro-smoothing of the skin. "Alive," she whi
 Markus came in like a boot heel through glass. "You didn't ask everyone. You just—" He stopped because there was nowhere for his anger to land that night.
 
 <!-- ZILD VISUAL -->
-![Zild chapter 06 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-06-evidence.jpg)
+![Zild chapter 06 interpretive plate derived from the isaac visual anchor.](/manus-storage/zild-canopy_1c912285.jpg)
 *Interpretive plate: isaac anchor, chapter 06.*
 <!-- END ZILD VISUAL -->
 

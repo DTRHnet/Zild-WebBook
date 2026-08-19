@@ -1,7 +1,7 @@
 # Predators' Lullaby Under Two Moons
 
 <!-- ZILD VISUAL -->
-![Zild chapter 10 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-10-signal.jpg)
+![Zild chapter 10 interpretive plate derived from the isaac visual anchor.](/manus-storage/zild-forest-plate_b85062e9.jpg)
 *Interpretive plate: isaac anchor, chapter 10.*
 <!-- END ZILD VISUAL -->
 
@@ -60,7 +60,7 @@ Lauren called the command circle under emergency lamps. Around the map: ammo, me
 "High ground by dawn," she said. "Markus, lead convoy up the northern ridge. Two teams, eight apiece. Ava, you accompany the first with biofoam. Lena, bring your third-gen inhibitor sealed for immediate deployment. Isaac, maintain environmental isolation on the hold."
 
 <!-- ZILD VISUAL -->
-![Zild chapter 10 interpretive plate derived from the ark visual anchor.](/assets/plates/chapter-10-evidence.jpg)
+![Zild chapter 10 interpretive plate derived from the ark visual anchor.](/manus-storage/zild-lauren-portrait_159de4f6.jpg)
 *Interpretive plate: ark anchor, chapter 10.*
 <!-- END ZILD VISUAL -->
 

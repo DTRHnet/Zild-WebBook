@@ -1,7 +1,7 @@
 # Chapter 15 — The Last Stand Begins
 
 <!-- ZILD VISUAL -->
-![Zild chapter 15 interpretive plate derived from the lauren visual anchor.](/assets/plates/chapter-15-signal.jpg)
+![Zild chapter 15 interpretive plate derived from the lauren visual anchor.](/manus-storage/zild-isaac-portrait_a4bfa1f5.jpg)
 *Interpretive plate: lauren anchor, chapter 15.*
 <!-- END ZILD VISUAL -->
 
@@ -72,7 +72,7 @@ Join. Live. Be reborn.
 Lena collapsed to her knees, sobbing. Ava fired until the rifle burned hot. Pulse rounds tore through the thing’s chest and only brought mist that tilted like smoke and reformed. Lauren froze at the center of the impossible mercy the creature offered: grief made into a weapon.
 
 <!-- ZILD VISUAL -->
-![Zild chapter 15 interpretive plate derived from the isaac visual anchor.](/assets/plates/chapter-15-evidence.jpg)
+![Zild chapter 15 interpretive plate derived from the isaac visual anchor.](/manus-storage/zild-lauren-portrait_159de4f6.jpg)
 *Interpretive plate: isaac anchor, chapter 15.*
 <!-- END ZILD VISUAL -->
 
