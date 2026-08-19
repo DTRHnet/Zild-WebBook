@@ -88,6 +88,9 @@
 - [x] Define appropriate additional appendix visual plates up to the practical asset limit.
 - [x] Generate, integrate, and validate the expanded appendix visual set.
 - [x] Push the expanded appendix visual update.
+- [x] Generate actual appendix image files and upload them as persistent assets.
+- [x] Link the uploaded appendix images directly inside the ten appendix Markdown texts.
+- [x] Build, verify, and push the corrected appendix image implementation.
 
 
 - [x] Audit table-of-contents entries and chapter-page headers for all 17 chapters.

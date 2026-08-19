@@ -1,7 +1,7 @@
 # Appendix B — Principal Characters and Relationships
 
 <!-- ZILD VISUAL -->
-![Appendix B evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-B-1.jpg)
+![Appendix B evidence plate derived from the isaac visual anchor.](/manus-storage/zild-isaac-plate_c69b34e2.jpg)
 *Evidence plate B.1: isaac visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -162,7 +162,7 @@ Open questions / damaged record
 - The long‑term success of Lena’s biochemical strategies is ambiguous in the manuscript. The inhibitor buys time but adaptation continues; whether her work survives (encoded in the shard, for example) is undetermined (label: open question).
 
 <!-- ZILD VISUAL -->
-![Appendix B evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-B-2.jpg)
+![Appendix B evidence plate derived from the lauren visual anchor.](/manus-storage/zild-lauren-plate_b90eef76.jpg)
 *Evidence plate B.2: lauren visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -330,7 +330,13 @@ If you want, I can:
 - Produce a glyph corpus appendix that collates every visual mention or quasi‑glyph occurrence from the manuscript into an illustrated table (preserving intentionally unresolved translations).
 
 <!-- ZILD VISUAL -->
-![Appendix B evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-B-3.jpg)
+![Appendix B evidence plate derived from the spacy visual anchor.](/manus-storage/zild-spacy-plate_a03f670e.jpg)
 *Evidence plate B.3: spacy visual anchor.*
 <!-- END ZILD VISUAL -->
 
+
+
+<!-- ZILD VISUAL -->
+![Evidence plate B.4: Ark systems and life-support architecture Generated Ash Archive documentary plate.](/manus-storage/zild-appendix-b-plate_440c859c.jpg)
+*Evidence plate B.4: Ark systems and life-support architecture.*
+<!-- END ZILD VISUAL -->

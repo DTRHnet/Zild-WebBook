@@ -1,7 +1,7 @@
 # Appendix A — Chronological Timeline
 
 <!-- ZILD VISUAL -->
-![Appendix A evidence plate derived from the ark visual anchor.](/assets/plates/appendix-A-1.jpg)
+![Appendix A evidence plate derived from the ark visual anchor.](/manus-storage/zild-ark-plate_32f61f2c.jpg)
 *Evidence plate A.1: ark visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -85,7 +85,7 @@ Table: Notable archive entries and status
 | LUCIFERIN (working-canon) | Concealed data payload / private agenda associated with Spacy | Continuity Bible | Working canon note; high confidence that it exists as concealed element but not fully described in manuscript |
 
 <!-- ZILD VISUAL -->
-![Appendix A evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-A-2.jpg)
+![Appendix A evidence plate derived from the isaac visual anchor.](/manus-storage/zild-isaac-plate_c69b34e2.jpg)
 *Evidence plate A.2: isaac visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -184,7 +184,13 @@ If you want, I can:
 - Prepare a catalog of all rhythmic mentions and the contexts they appear in (personnel who noticed them, instrument readings, Spacy comments), for cross-referencing character testimony with system logs.
 
 <!-- ZILD VISUAL -->
-![Appendix A evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-A-3.jpg)
+![Appendix A evidence plate derived from the spacy visual anchor.](/manus-storage/zild-spacy-plate_a03f670e.jpg)
 *Evidence plate A.3: spacy visual anchor.*
 <!-- END ZILD VISUAL -->
 
+
+
+<!-- ZILD VISUAL -->
+![Evidence plate A.4: continuity chronology and Ark departure record Generated Ash Archive documentary plate.](/manus-storage/zild-appendix-a-plate_9a43e47a.jpg)
+*Evidence plate A.4: continuity chronology and Ark departure record.*
+<!-- END ZILD VISUAL -->

@@ -1,7 +1,7 @@
 # Appendix E — Xenobiology and Ecology
 
 <!-- ZILD VISUAL -->
-![Appendix E evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-E-1.jpg)
+![Appendix E evidence plate derived from the spacy visual anchor.](/manus-storage/zild-spacy-plate_a03f670e.jpg)
 *Evidence plate E.1: spacy visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -72,7 +72,7 @@ Detailed entries
   - Open questions: long-term stability of spore-host integration; whether “rewriting” is parasitic assimilation, symbiotic reprogramming, or a third category.
 
 <!-- ZILD VISUAL -->
-![Appendix E evidence plate derived from the ark visual anchor.](/assets/plates/appendix-E-2.jpg)
+![Appendix E evidence plate derived from the ark visual anchor.](/manus-storage/zild-ark-plate_32f61f2c.jpg)
 *Evidence plate E.2: ark visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -166,7 +166,13 @@ If you want, the next appendix pass can:
 - Produce a visual cue table mapping bioluminescent colors to contexts in the text (response, warning, memory playback), with confidence levels for each mapping.
 
 <!-- ZILD VISUAL -->
-![Appendix E evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-E-3.jpg)
+![Appendix E evidence plate derived from the isaac visual anchor.](/manus-storage/zild-isaac-plate_c69b34e2.jpg)
 *Evidence plate E.3: isaac visual anchor.*
 <!-- END ZILD VISUAL -->
 
+
+
+<!-- ZILD VISUAL -->
+![Evidence plate E.4: signal analysis workbench Generated Ash Archive documentary plate.](/manus-storage/zild-appendix-e-plate_cb503f21.jpg)
+*Evidence plate E.4: signal analysis workbench.*
+<!-- END ZILD VISUAL -->

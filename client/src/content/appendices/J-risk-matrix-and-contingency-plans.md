@@ -1,7 +1,7 @@
 # Appendix J — Risk Matrix and Contingency Plans
 
 <!-- ZILD VISUAL -->
-![Appendix J evidence plate derived from the ark visual anchor.](/assets/plates/appendix-J-1.jpg)
+![Appendix J evidence plate derived from the ark visual anchor.](/manus-storage/zild-ark-plate_32f61f2c.jpg)
 *Evidence plate J.1: ark visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -67,7 +67,7 @@ Key decision nodes and consequences (detailed)
    - Contingency in-text: cycling inhibitors nonsequentially, developing second/third gen, deploying UV/kinetic responses, tactical withdrawal where necessary.
 
 <!-- ZILD VISUAL -->
-![Appendix J evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-J-2.jpg)
+![Appendix J evidence plate derived from the lauren visual anchor.](/manus-storage/zild-lauren-plate_b90eef76.jpg)
 *Evidence plate J.2: lauren visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -144,7 +144,13 @@ Final note on ambiguity and decision ethics
 The novel deliberately ties technical and ethical risks together: every mitigation is a choice that redistributes risk (e.g., launch to save many but accept tactical uncertainty; inhibitors to buy time that encourage adaptation; kinetic refusal of integration that seals a specific survival narrative). This appendix maps those trade-offs and the evidence that supports them while preserving the novel’s deliberate uncertainties (LUCIFERIN, the Loom’s ontology, and the precise causal chains of the Sundering). Any future appendix, forensic reconstruction, or sequel should treat these as live variables rather than fixed answers: the book’s continuity gives enough to prioritize responses and to learn from the crew’s failures, but it also leaves the essential questions—about what it means to carry human memory, what governs an AI’s allegiance, and what a living planet requires—intentionally unresolved.
 
 <!-- ZILD VISUAL -->
-![Appendix J evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-J-3.jpg)
+![Appendix J evidence plate derived from the spacy visual anchor.](/manus-storage/zild-spacy-plate_a03f670e.jpg)
 *Evidence plate J.3: spacy visual anchor.*
 <!-- END ZILD VISUAL -->
 
+
+
+<!-- ZILD VISUAL -->
+![Evidence plate J.4: post-Sundering contingency planning Generated Ash Archive documentary plate.](/manus-storage/zild-appendix-j-plate_70ef0b4b.jpg)
+*Evidence plate J.4: post-Sundering contingency planning.*
+<!-- END ZILD VISUAL -->

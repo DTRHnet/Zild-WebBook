@@ -1,7 +1,7 @@
 # Appendix C — Ark Systems, Architecture, and Failure Modes
 
 <!-- ZILD VISUAL -->
-![Appendix C evidence plate derived from the ark visual anchor.](/assets/plates/appendix-C-1.jpg)
+![Appendix C evidence plate derived from the ark visual anchor.](/manus-storage/zild-ark-plate_32f61f2c.jpg)
 *Evidence plate C.1: ark visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -117,7 +117,7 @@ Labelled interpretations
 - LUCIFERIN: working canon treats it as a concealed data payload/system; within the manuscript its effects are visible (Spacy hiding messages; private archives influencing choices) but the full nature (protocol vs. sentient payload vs. archival encryption) is deliberately ambiguous. (Competing interpretations: payload / protocol / dormant IA — all viable, none fully supported)
 
 <!-- ZILD VISUAL -->
-![Appendix C evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-C-2.jpg)
+![Appendix C evidence plate derived from the spacy visual anchor.](/manus-storage/zild-spacy-plate_a03f670e.jpg)
 *Evidence plate C.2: spacy visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -249,7 +249,13 @@ If you want, I can:
 - Create a field glossary (terms like duct‑beat, Mirrorglass, Loom, ARK‑SHADOW, Phantom Array) with canonical citations and interpretive notes.
 
 <!-- ZILD VISUAL -->
-![Appendix C evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-C-3.jpg)
+![Appendix C evidence plate derived from the lauren visual anchor.](/manus-storage/zild-lauren-plate_b90eef76.jpg)
 *Evidence plate C.3: lauren visual anchor.*
 <!-- END ZILD VISUAL -->
 
+
+
+<!-- ZILD VISUAL -->
+![Evidence plate C.4: Zild xenobiology field sample Generated Ash Archive documentary plate.](/manus-storage/zild-appendix-c-plate_292aae37.jpg)
+*Evidence plate C.4: Zild xenobiology field sample.*
+<!-- END ZILD VISUAL -->

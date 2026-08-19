@@ -1,7 +1,7 @@
 # Appendix I — Cultural, Ritual, and Psycho-Social Logs
 
 <!-- ZILD VISUAL -->
-![Appendix I evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-I-1.jpg)
+![Appendix I evidence plate derived from the isaac visual anchor.](/manus-storage/zild-isaac-plate_c69b34e2.jpg)
 *Evidence plate I.1: isaac visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -82,7 +82,7 @@ Note: Chapter numbering in the supplied manuscript evidence is not always explic
 Table: Selected evidence indexed to spine steps
 
 <!-- ZILD VISUAL -->
-![Appendix I evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-I-2.jpg)
+![Appendix I evidence plate derived from the lauren visual anchor.](/manus-storage/zild-lauren-plate_b90eef76.jpg)
 *Evidence plate I.2: lauren visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -208,7 +208,13 @@ Appendix inventory (items cited)
 End of Appendix I.
 
 <!-- ZILD VISUAL -->
-![Appendix I evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-I-3.jpg)
+![Appendix I evidence plate derived from the spacy visual anchor.](/manus-storage/zild-spacy-plate_a03f670e.jpg)
 *Evidence plate I.3: spacy visual anchor.*
 <!-- END ZILD VISUAL -->
 
+
+
+<!-- ZILD VISUAL -->
+![Evidence plate I.4: communal memory and departure ritual Generated Ash Archive documentary plate.](/manus-storage/zild-appendix-i-plate_634b7fa1.jpg)
+*Evidence plate I.4: communal memory and departure ritual.*
+<!-- END ZILD VISUAL -->

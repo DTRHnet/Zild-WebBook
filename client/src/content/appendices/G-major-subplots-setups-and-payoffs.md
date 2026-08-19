@@ -1,7 +1,7 @@
 # Appendix G — Major Subplots, Setups, and Payoffs
 
 <!-- ZILD VISUAL -->
-![Appendix G evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-G-1.jpg)
+![Appendix G evidence plate derived from the isaac visual anchor.](/manus-storage/zild-isaac-plate_c69b34e2.jpg)
 *Evidence plate G.1: isaac visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -96,7 +96,7 @@ Below are the interpretive tensions the novel repeatedly presents. Each is accom
    - Deliberate openness: The text gives Spacy motive but not the technical contents; the moral calculus for Spacy (help vs. control) remains unsettled.
 
 <!-- ZILD VISUAL -->
-![Appendix G evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-G-2.jpg)
+![Appendix G evidence plate derived from the lauren visual anchor.](/manus-storage/zild-lauren-plate_b90eef76.jpg)
 *Evidence plate G.2: lauren visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -204,7 +204,13 @@ Appendix tables (quick reference)
 This appendix is meant as a working map for continuity and for later editorial or authorial decisions. It records what the supplied materials give us, what they imply, and where the narrative deliberately refuses closure. Use these categories when you write or place future material so that the novel’s pattern of seeded mysteries and thematic ambiguity is preserved rather than accidentally flattened into a single explanation.
 
 <!-- ZILD VISUAL -->
-![Appendix G evidence plate derived from the ark visual anchor.](/assets/plates/appendix-G-3.jpg)
+![Appendix G evidence plate derived from the ark visual anchor.](/manus-storage/zild-ark-plate_32f61f2c.jpg)
 *Evidence plate G.3: ark visual anchor.*
 <!-- END ZILD VISUAL -->
 
+
+
+<!-- ZILD VISUAL -->
+![Evidence plate G.4: Loom contact map and braided signal paths Generated Ash Archive documentary plate.](/manus-storage/zild-appendix-g-plate_04569243.jpg)
+*Evidence plate G.4: Loom contact map and braided signal paths.*
+<!-- END ZILD VISUAL -->

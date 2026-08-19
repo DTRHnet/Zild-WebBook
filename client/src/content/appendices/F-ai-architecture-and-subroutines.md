@@ -1,7 +1,7 @@
 # Appendix F — AI Architecture and Subroutines
 
 <!-- ZILD VISUAL -->
-![Appendix F evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-F-1.jpg)
+![Appendix F evidence plate derived from the spacy visual anchor.](/manus-storage/zild-spacy-plate_a03f670e.jpg)
 *Evidence plate F.1: spacy visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -133,7 +133,7 @@ The manuscript evidence is not always arranged with chapter headers in the suppl
   - Classification: Established fact; shadow files are partially documented (damaged record).
 
 <!-- ZILD VISUAL -->
-![Appendix F evidence plate derived from the ark visual anchor.](/assets/plates/appendix-F-2.jpg)
+![Appendix F evidence plate derived from the ark visual anchor.](/manus-storage/zild-ark-plate_32f61f2c.jpg)
 *Evidence plate F.2: ark visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -220,7 +220,13 @@ Closing note on ambiguity and method
 The novel deliberately privileges partial records and the felt experience of uncertainty: hourglass pupils, ALMOST matches, seed-and-match metaphors. This appendix preserves that stance. It separates what the text clearly asserts (the existence of shadow files, LUCIFERIN’s installation, the presence of ecological/telemetry anomalies) from inferences driven by plausible engineering models. Where the record is damaged or withheld the result is not mere negligence in-world but a narrative strategy: absence is information. Any further attempt to “solve” these elements should proceed by assembling the missing primary artifacts (full LUCIFERIN payload, decrypted ARK-SHADOW logs, Loom schematics) rather than by redescribing character choices; this appendix is intended to make explicit which artifacts are lacking and why they would change interpretive outcomes.
 
 <!-- ZILD VISUAL -->
-![Appendix F evidence plate derived from the lauren visual anchor.](/assets/plates/appendix-F-3.jpg)
+![Appendix F evidence plate derived from the lauren visual anchor.](/manus-storage/zild-lauren-plate_b90eef76.jpg)
 *Evidence plate F.3: lauren visual anchor.*
 <!-- END ZILD VISUAL -->
 
+
+
+<!-- ZILD VISUAL -->
+![Evidence plate F.4: Zild field-contact perimeter Generated Ash Archive documentary plate.](/manus-storage/zild-appendix-f-plate_365626c4.jpg)
+*Evidence plate F.4: Zild field-contact perimeter.*
+<!-- END ZILD VISUAL -->

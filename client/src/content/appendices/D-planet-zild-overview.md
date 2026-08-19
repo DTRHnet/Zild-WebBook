@@ -1,7 +1,7 @@
 # Appendix D — Planet Zild Overview
 
 <!-- ZILD VISUAL -->
-![Appendix D evidence plate derived from the ark visual anchor.](/assets/plates/appendix-D-1.jpg)
+![Appendix D evidence plate derived from the ark visual anchor.](/manus-storage/zild-ark-plate_32f61f2c.jpg)
 *Evidence plate D.1: ark visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -92,7 +92,7 @@ Ruins, glyphs, and traces of prior intervention
 - Interpretive note: The glyph’s recurrence supports the narrative motif of patterned memory and ties the planet’s “language” to both natural structures and cryptic artifacts. Its meaning remains unresolved in the novel.
 
 <!-- ZILD VISUAL -->
-![Appendix D evidence plate derived from the isaac visual anchor.](/assets/plates/appendix-D-2.jpg)
+![Appendix D evidence plate derived from the isaac visual anchor.](/manus-storage/zild-isaac-plate_c69b34e2.jpg)
 *Evidence plate D.2: isaac visual anchor.*
 <!-- END ZILD VISUAL -->
 
@@ -179,7 +179,13 @@ Selected passages for quick reference (index)
 If you want, I can expand any subsection into a focused dossier (for example, a technical but non-speculative brief on the Lantern Glade’s recorded interactions, or a tabular catalogue of glyph sightings with contextual cross-references to crew logs). Each expanded dossier will preserve ambiguity and label hypotheses explicitly.
 
 <!-- ZILD VISUAL -->
-![Appendix D evidence plate derived from the spacy visual anchor.](/assets/plates/appendix-D-3.jpg)
+![Appendix D evidence plate derived from the spacy visual anchor.](/manus-storage/zild-spacy-plate_a03f670e.jpg)
 *Evidence plate D.3: spacy visual anchor.*
 <!-- END ZILD VISUAL -->
 
+
+
+<!-- ZILD VISUAL -->
+![Evidence plate D.4: Spacy and the private archive channel Generated Ash Archive documentary plate.](/manus-storage/zild-appendix-d-plate_189e23d1.jpg)
+*Evidence plate D.4: Spacy and the private archive channel.*
+<!-- END ZILD VISUAL -->
